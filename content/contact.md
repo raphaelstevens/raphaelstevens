@@ -14,7 +14,7 @@ Merci pour vos retours, suggestions et opinions qui me permettent de progresser.
 
 Je suis disponible pour des interviews par écrit ou par téléphone pour des articles qui traitent de mes [thèmes](/recherche).  
 
-Je ne commente pas l'actualité immédiate (à chacun son job). Néanmoins, si vous cherchez des ressources bibliographiques pertinentes ou des idées et éclairages pour vos articles d'actualité, je partage volontiers mon expertise, en off.
+Je ne commente pas l'actualité immédiate. Néanmoins, si vous cherchez des ressources bibliographiques pertinentes pour vos articles d'actualité, je partage volontiers mon expertise, en off.
 
 ### Organisateur·rice·s de conférences, débats ou formations
 
