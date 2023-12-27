@@ -15,7 +15,7 @@
               "state": {
                 "file": "contact.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "2b8455709d89b91d",
   "lastOpenFiles": [
+    "publications.md",
+    "recherche.md",
+    "contact.md",
     "about.md"
   ]
 }

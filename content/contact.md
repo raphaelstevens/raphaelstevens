@@ -12,7 +12,7 @@ Merci pour vos retours, suggestions et opinions qui me permettent de progresser.
 
 ### Journalistes
 
-Je suis disponible pour des interviews par écrit ou par téléphone pour des articles qui traitent de mes [thèmes](/recherche).  
+Je suis disponible, par écrit ou par téléphone, pour des interviews et des articles qui font echo aux  [thèmes](/recherche) que j'aborde.  
 
 Je ne commente pas l'actualité immédiate. Néanmoins, si vous cherchez des ressources bibliographiques pertinentes pour vos articles d'actualité, je partage volontiers mon expertise, en off.
 
@@ -26,6 +26,6 @@ Terrestre du Condroz, je limite habituellement mes déplacements à la Belgique 
 
 Je suis ouvert à des collaborations avec des scientifiques et des artistes dont les travaux font écho aux [thématiques](/recherche) que j'explore.
 
-Concernant les projets de recherche, je suis particulièrement intéressé par les démarches de recherche-action participative. Et, je partage volontiers mes connaissances sur la [littérature scientifique](https://collapsology.info/science/) si vous cherchez à informer vos articles, modèles ou scénarios. 
+Concernant les projets de recherche, je suis particulièrement intéressé par les démarches de recherche-action participative. Et, je partage volontiers mes connaissances sur la [littérature scientifique](https://collapsology.info/en/science/) si vous cherchez à étoffer vos articles, modèles ou scénarios. 
 
 Du côté artistique, les propositions de collaboration au confluent entre arts, sciences et transition juste sont les bienvenues, en particulier si elles cherchent à favoriser le croisement des regards et valoriser les interdépendances entre ces domaines.
