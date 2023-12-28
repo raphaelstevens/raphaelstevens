@@ -20,7 +20,7 @@ Je ne commente pas l'actualité immédiate. Néanmoins, si vous cherchez des res
 
 Régulièrement sollicité en tant qu'intervenant indépendant, je suis honoré et ravi d'échanger avec le public. Merci pour votre intérêt. 
 
-Terrestre du Condroz, je limite habituellement mes déplacements à la Belgique et au Nord de la France, Paris compris. "Freelance", je demande aux organisateurs une compensation financière et la prise en charge de mes frais de transport, ainsi que d'hébergement pour les événements organisés en France. Ma rémunération se discute selon le format de l'événement et le temps requis pour ma préparation et ma présentation. 
+Terrestre du Condroz, je limite habituellement mes déplacements à la Belgique et au Nord de la France, Paris compris. «&nbsp;Freelance&nbsp;», je demande aux organisateurs une compensation financière et la prise en charge de mes frais de transport, ainsi que d'hébergement pour les événements organisés en France. Ma rémunération se discute selon le format de l'événement et le temps requis pour ma préparation et ma présentation. 
 
 ### Chercheur·euse·s / Artistes 
 
