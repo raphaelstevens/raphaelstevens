@@ -124,11 +124,8 @@ disableHugoGeneratorInject = false
     copyright = false
     author = true
 
-    topText = []
-    bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084;"
-    ]
+    topText = ["Made with &#10084;"]
+    bottomText = []
 
   # Colors for favicons
   #
@@ -165,7 +162,7 @@ disableHugoGeneratorInject = false
 	
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/collapsology"
 	
   [[params.social]]
     name = "email"

@@ -75,8 +75,8 @@ Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques)
 - « [Sociologie des collasponautes](https://rhizome.etopia.be/Default/doc/SYRACUSE/1869/sociologie-des-collapsonautes) », n°140, sept-oct 2020.
 - « [S'armer de confiance](https://rhizome.etopia.be/Default/doc/SYRACUSE/22956/s-armer-de-confiance) », n°139, mai-juin 2020.
 - « La complexité, par delà les frontières », n°137, nov-dec 2019.
-- - « [La collapsologie est-elle un science ?](https://rhizome.etopia.be/Default/doc/SYRACUSE/17294/la-collapsologie-est-elle-une-science) », n°135, sept-oct 2019.
-- - « Rapa Nui n’a pas tout dit », n°134, juillet-août 2019. 
+- « [La collapsologie est-elle un science ?](https://rhizome.etopia.be/Default/doc/SYRACUSE/17294/la-collapsologie-est-elle-une-science) », n°135, sept-oct 2019.
+- « Rapa Nui n’a pas tout dit », n°134, juillet-août 2019. 
 - « [Comment parler du pire](https://rhizome.etopia.be/Default/doc/SYRACUSE/13688/comment-parler-du-pire) », n°127, 2018.
 - « La science post-normale », n°134, mai-juin 2018.
 - « [L'intuition, pour penser les catastrophes](https://rhizome.etopia.be/Default/doc/SYRACUSE/13164/l-intuition-pour-penser-les-catastrophes)», n°126, mars-avril 2018.
