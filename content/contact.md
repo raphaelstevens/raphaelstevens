@@ -4,7 +4,7 @@ weight: "4"
 ---
 Bonjour, 
 
-Mon moyen de communication privilégié est l'e-mail. Ecrivez-moi à l'adresse&nbsp;: {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
+Mon moyen de communication privilégié est l'e-mail. Ecrivez-moi à l'adresse&nbsp;:  {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
 
 ### Lecteur·rice·s
 
@@ -12,7 +12,7 @@ Merci pour vos retours, suggestions et opinions qui me permettent de progresser.
 
 ### Journalistes
 
-Je suis disponible, par écrit ou par téléphone, pour des interviews et des articles qui font echo aux  [thèmes](/recherche) que j'aborde.  
+Je suis disponible, par écrit ou par téléphone, pour des interviews et des articles en lien avec   [thèmes](/recherche) que j'aborde.  
 
 Je ne commente pas l'actualité immédiate. Néanmoins, si vous cherchez des ressources bibliographiques pertinentes pour vos articles d'actualité, je partage volontiers mon expertise, en off.
 
