@@ -33,7 +33,7 @@ L’intuition est bien plus qu’un mode cognitif secondaire. C’est une facult
 Depuis près de quatre siècles, nous cultivons la pensée rationnelle et analytique, à une échelle collective. Et si nous faisions pareil pour l'intuition ? Il ne s'agirait pas de soustraire la première faculté au profit de la seconde, mais d'additionner leurs forces (et reconnaître leurs faiblesses). Sous cet angle, la pensée intuitive, son rôle dans un groupe et les moyens de la valoriser socialement apparaissent comme un domaine de recherche peu exploré. L'idée est de concevoir et mettre en place des dispositifs expérimentaux pour aborder ces questions.
 
 ### Science-post-normale
-[Approche scientifique adaptée à la complexité des enjeux du XXI^e siècle]
+[Approche scientifique adaptée à la complexité des enjeux du XXI$^e$ siècle]
 
 La science «&nbsp;post-normale&nbsp;» constitue le cadre général dans lequel s'inscrit ma démarche. Face à la complexité des défis contemporains, elle promeut des approches résolument transdisciplinaires et ouvertes sur la société. Ce concept a émergé dans les années 1990 pour dépasser les limites des approches scientifiques conventionnelles sur des problèmes caractérisés par de fortes incertitudes et et une pluralité de visions du monde.
 
