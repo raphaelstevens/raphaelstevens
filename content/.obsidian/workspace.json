@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artivisme.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artivisme.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artivisme.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artivisme.md"
+                "file": "about.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "2b8455709d89b91d",
   "lastOpenFiles": [
-    "about.md",
+    "contact.md",
     "recherche.md",
     "publications.md",
-    "artivisme.md",
-    "contact.md"
+    "about.md",
+    "artivisme.md"
   ]
 }
