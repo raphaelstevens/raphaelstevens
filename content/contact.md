@@ -4,7 +4,7 @@ weight: "4"
 ---
 Bonjour, 
 
-Mon moyen de communication privilégié est l'e-mail. Ecrivez-moi à l'adresse : {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
+Mon moyen de communication privilégié est l'e-mail. Ecrivez-moi à l'adresse&nbsp;: {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
 
 ### Lecteur·rice·s
 
