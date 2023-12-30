@@ -83,19 +83,20 @@ Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques)
 
 #### Journal Kairos (2015-2018)
 
-- «&nbsp;[Se remettre (psychologiquement) d'une catastrophe](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», juin 2018.
-- «&nbsp;[Climat : des tempêtes d'émotions à venir](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», avril 2018.
-- «&nbsp;[Le côté lumineux du désespoir](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», février 2018.
-- «&nbsp;[Nous sommes catastrophistes, mais pas pessimistes ! (ni optimistes d'ailleurs)](https://www.kairospresse.be/nous-sommes-catastrophistes-mais-pas-pessimistes-ni-optimistes-dailleurs/)&nbsp;», décembre 2017.
-- «&nbsp;[Quand les catastrophes font perdre la tête](https://www.kairospresse.be/quand-les-catastrophes-font-perdre-la-tete/)&nbsp;», octobre 2017.
-- «&nbsp;[Prendre conscience d’un possible effondrement](https://www.kairospresse.be/prendre-conscience-dun-possible-effondrement/)&nbsp;», août 2017.
-- «&nbsp;[L’imaginaire du débranchement](https://www.kairospresse.be/limaginaire-du-debranchement/)&nbsp;», avril 2017.
-- «&nbsp;[Les leçons de l’effondrement de l’URSS (II) : Démographie](https://www.kairospresse.be/les-lecons-de-leffondrement-de-lurss-ii-demographie/)&nbsp;», février 2017.
-- «&nbsp;[Les leçons de l’effondrement de l’URSS (I) : Biodiversité](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», décembre 2016.
-- «&nbsp;[Les millionnaires se préparent au pire](https://www.kairospresse.be/les-millionnaires-se-preparent-au-pire/)&nbsp;», juin 2016.
-- «&nbsp;[Démanteler les centrales nucléaires ? Désolé, ça va pas être possible](https://www.kairospresse.be/points-de-vue-sur-le-demantelement/)&nbsp;», décembre 2015.
-- «&nbsp;[Notre monde va-t-il bientôt ressembler à MAD MAX ?](https://www.kairospresse.be/notre-monde-va-t-il-bientot-ressembler-a-mad-max/)&nbsp;», octobre 2015.
-- «&nbsp;[La finitude de notre civilisation : entre limites et frontières](https://www.kairospresse.be/la-finitude-de-notre-civilisation-entre-limites-et-frontieres/)&nbsp;», septembre 2015. 
+- «&nbsp;[Se remettre (psychologiquement) d'une catastrophe](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», n°35, juin-juillet/août 2018.
+- «&nbsp;[Climat : des tempêtes d'émotions à venir](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», n°34, avril-mai 2018.
+- «&nbsp;[Le côté lumineux du désespoir](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», n°33, janv-fév 2018.
+- «&nbsp;[Nous sommes catastrophistes, mais pas pessimistes ! (ni optimistes d'ailleurs)](https://www.kairospresse.be/nous-sommes-catastrophistes-mais-pas-pessimistes-ni-optimistes-dailleurs/)&nbsp;», n°32, nov-déc 2017.
+- «&nbsp;[Quand les catastrophes font perdre la tête](https://www.kairospresse.be/quand-les-catastrophes-font-perdre-la-tete/)&nbsp;», n°31, sept-oct 2017.
+- «&nbsp;[Prendre conscience d’un possible effondrement](https://www.kairospresse.be/prendre-conscience-dun-possible-effondrement/)&nbsp;», n°30, juin-juillet/août 2017.
+- «&nbsp;[L’imaginaire du débranchement](https://www.kairospresse.be/limaginaire-du-debranchement/)&nbsp;», n°29, avril-mai 2017.
+- «&nbsp;[Les leçons de l’effondrement de l’URSS (II) : Démographie](https://www.kairospresse.be/les-lecons-de-leffondrement-de-lurss-ii-demographie/)&nbsp;», n°28, fév-mars 2017.
+- «&nbsp;[Les leçons de l’effondrement de l’URSS (I) : Biodiversité](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», n°26, sept-oct 2016.
+- «&nbsp;[Les millionnaires se préparent au pire](https://www.kairospresse.be/les-millionnaires-se-preparent-au-pire/)&nbsp;», n°25, juin-juil-août 2016.
+- «&nbsp;[Démanteler les centrales nucléaires ? Désolé, ça va pas être possible](https://www.kairospresse.be/points-de-vue-sur-le-demantelement/)&nbsp;», n°24, avril-mai 2016.
+- «&nbsp;Les pandémies ne sont jamais loin&nbsp;», n°23, fév-mars 2016.
+- «&nbsp;[Notre monde va-t-il bientôt ressembler à MAD MAX ?](https://www.kairospresse.be/notre-monde-va-t-il-bientot-ressembler-a-mad-max/)&nbsp;», n°22, dec-janv 2016.
+- «&nbsp;[La finitude de notre civilisation : entre limites et frontières](https://www.kairospresse.be/la-finitude-de-notre-civilisation-entre-limites-et-frontieres/)&nbsp;», n°21, sept-oct 2015. 
 
 ### Articles
 
