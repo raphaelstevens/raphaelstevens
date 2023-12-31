@@ -94,7 +94,7 @@ Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques)
 - «&nbsp;[Les leçons de l’effondrement de l’URSS (I) : Biodiversité](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», n°26, sept-oct 2016.
 - «&nbsp;[Les millionnaires se préparent au pire](https://www.kairospresse.be/les-millionnaires-se-preparent-au-pire/)&nbsp;», n°25, juin-juil-août 2016.
 - «&nbsp;[Démanteler les centrales nucléaires ? Désolé, ça va pas être possible](https://www.kairospresse.be/points-de-vue-sur-le-demantelement/)&nbsp;», n°24, avril-mai 2016.
-- «&nbsp;Les pandémies ne sont jamais loin&nbsp;», n°23, fév-mars 2016.
+- «&nbsp;[Les pandémies ne sont jamais loin](https://www.kairospresse.be/les-pandemies-ne-sont-jamais-loin/)&nbsp;», n°23, fév-mars 2016.
 - «&nbsp;[Notre monde va-t-il bientôt ressembler à MAD MAX ?](https://www.kairospresse.be/notre-monde-va-t-il-bientot-ressembler-a-mad-max/)&nbsp;», n°22, dec-janv 2016.
 - «&nbsp;[La finitude de notre civilisation : entre limites et frontières](https://www.kairospresse.be/la-finitude-de-notre-civilisation-entre-limites-et-frontieres/)&nbsp;», n°21, sept-oct 2015. 
 
@@ -104,6 +104,7 @@ Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques)
 - «&nbsp;[Reasons for anticipating societal collapse](https://www.researchgate.net/profile/Rupert-Read/publication/360947368_Deep_Adaptation_Navigating_the_Realities_of_Climate_Chaos/links/6294eb31c660ab61f852a2f8/Deep-Adaptation-Navigating-the-Realities-of-Climate-Chaos.pdf#page=101)&nbsp;», in "Deep Adaptation: Navigating the Realities of Climate Chaos", Eds. Rupert Read & Jem Bendell, Polity Press, 2021, pp. 87‑101. 
 - «&nbsp;[How Everything Can Collapse: Excerpt](https://www.resilience.org/stories/2020-08-10/how-everything-can-collapse-excerpt/)&nbsp;», Resilience.org, 2020.
 - «&nbsp;[Deep Adaptation opens up a necessary conversation about the breakdown of civilisation](https://www.opendemocracy.net/en/oureconomy/deep-adaptation-opens-necessary-conversation-about-breakdown-civilisation/)&nbsp;», openDemocracy, 2020.
+- [The overview effect](/img/overview-effect.pdf), catalogue de l'exposition (Tendencies '19, 26 avril - 9 juin 2019), Brussels, 2005.
 - «&nbsp;[Vivre l'effondrement  (et pas seulement y survivre](https://institutmomentum.org/vivre-leffondrement)&nbsp;», Institut Momentum, 2018. 
 - «&nbsp;[Les inégalités, un facteur d’effondrement](https://etopia.be/blog/2014/12/17/les-inegalites-un-facteur-deffondrement/)&nbsp;», Etopia, 2014.
 - «&nbsp;[Alors, ca vient ? Pourquoi la transition se fait attendre](https://www.barricade.be/publications/analyses-etudes/alors-ca-vient-pourquoi-transition-se-fait-attendre)&nbsp;», Barricade, 2014.
