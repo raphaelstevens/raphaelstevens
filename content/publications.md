@@ -102,6 +102,7 @@ Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques)
 
 - «&nbsp;[Warum man sich mit dem Zusammenbruch auseinandersetzen muss](https://agora42.de/shop/1-2023-zusammenbruch/)&nbsp;», agora 42, janv 2023.
 - «&nbsp;[Reasons for anticipating societal collapse](https://www.researchgate.net/profile/Rupert-Read/publication/360947368_Deep_Adaptation_Navigating_the_Realities_of_Climate_Chaos/links/6294eb31c660ab61f852a2f8/Deep-Adaptation-Navigating-the-Realities-of-Climate-Chaos.pdf#page=101)&nbsp;», in "Deep Adaptation: Navigating the Realities of Climate Chaos", Eds. Rupert Read & Jem Bendell, Polity Press, 2021, pp. 87‑101. 
+- [préface et postface](https://ref.lamartinieregroupe.com/media/9782021223316/122331_extrait_Extrait_0.pdf) pour l'édition de poche de Comment tout peut s'effondrer, Seuil, 2020. 
 - «&nbsp;[How Everything Can Collapse: Excerpt](https://www.resilience.org/stories/2020-08-10/how-everything-can-collapse-excerpt/)&nbsp;», Resilience.org, 2020.
 - «&nbsp;[Deep Adaptation opens up a necessary conversation about the breakdown of civilisation](https://www.opendemocracy.net/en/oureconomy/deep-adaptation-opens-necessary-conversation-about-breakdown-civilisation/)&nbsp;», openDemocracy, 2020.
 - [The overview effect](/img/overview-effect.pdf), catalogue de l'exposition (Tendencies '19, 26 avril - 9 juin 2019), Brussels, 2005.
