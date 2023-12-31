@@ -2,7 +2,7 @@
 title: "Contact"
 weight: "4"
 ---
-Bonjour, 
+Bonjour :wave: 
 
 Mon moyen de communication privilégié est l'e-mail. Ecrivez-moi à l'adresse&nbsp;:&ensp;{{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
 
