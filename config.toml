@@ -56,7 +56,7 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   # 
   description = "Raphaël Stevens"
-  keywords = "prospective, risques globaux, collapsologie, effondrement, résilience, intuition, science post-normale, artivisme, raphael stevens, comment tout peut s'effondrer, une autre fin du monde est possible"
+  keywords = "contact, prospective, risques globaux, collapsologie, effondrement, résilience, intuition, science post-normale, artivisme, raphael stevens, comment tout peut s'effondrer, une autre fin du monde est possible"
   images = [""]
 
   # Home subtitle of the index page.
@@ -64,7 +64,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Essayiste // Prospectiviste"
 
   # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+  backgroundImage = "assets/images/background-rs.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -119,7 +119,7 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = "2023"
+    trademark = "2024"
     rss = false
     copyright = false
     author = true
@@ -178,7 +178,7 @@ disableHugoGeneratorInject = false
 
   [languages.en.params]
     subtitle  = "Essayiste // Prospectiviste"
-	disabled = false
+    disabled = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
