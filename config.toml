@@ -64,7 +64,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Essayiste // Prospectiviste"
 
   # Set a background for the homepage
-  backgroundImage = "assets/images/background-rs.jpg"
+  backgroundImage = "images/background-rs.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
