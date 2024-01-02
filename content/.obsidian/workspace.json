@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contact.en.md",
+                "file": "contact.fr.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contact.en.md",
+                "file": "contact.fr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contact.en.md",
+                "file": "contact.fr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contact.en.md"
+                "file": "contact.fr.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "28210eee03299528",
   "lastOpenFiles": [
+    "contact.en.md",
     "about.en.md",
     "about.fr.md",
-    "contact.en.md",
     "artivisme.fr.md",
     "artivisme.en.md",
     "recherche.fr.md",

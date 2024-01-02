@@ -4,7 +4,7 @@ weight: "4"
 ---
 Bonjour :wave: 
 
-Contactez-moi via {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
+Contactez-moi via&nbsp; {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
 
 ### Lecteur·rice·s
 

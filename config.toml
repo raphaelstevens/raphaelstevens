@@ -171,7 +171,7 @@ disableHugoGeneratorInject = false
 	
   [[params.social]]
     name = "email"
-    url  = "/contact"
+    url  = "/fr/contact"
 
 
 [languages]
@@ -187,27 +187,27 @@ disableHugoGeneratorInject = false
     homeSubtitle  = "Essayiste // Prospectiviste"
  [[languages.fr.menu.main]]
     identifier = "about"
-    name       = "bio"
+    name       = "Bio"
     url        = "about/"
 	weight    = 1
 [[languages.fr.menu.main]]
     identifier = "recherche"
-    name       = "recherche"
+    name       = "Recherche"
     url        = "recherche/"
 	weight    = 2
 [[languages.fr.menu.main]]
     identifier = "publications"
-    name       = "publications"
+    name       = "Publications"
     url        = "publications/"
 	weight    = 4
 [[languages.fr.menu.main]]
     identifier = "artivisme"
-    name       = "artivisme"
+    name       = "Artivisme"
     url        = "artivisme/"
 	weight    = 3
 [[languages.fr.menu.main]]
     identifier = "contact"
-    name       = "contact"
+    name       = "Contact"
     url        = "contact/"
 	weight    = 5
 
@@ -223,27 +223,27 @@ disableHugoGeneratorInject = false
     homeSubtitle  = "Essayist // Prospectivist"
    [[languages.en.menu.main]]
 	 identifier = "about"
-     name       = "about"
+     name       = "About"
      url        = "about/"
 	 weight    = 1
    [[languages.en.menu.main]]
 	 identifier = "recherche"
-     name       = "research"
+     name       = "Research"
      url        = "recherche/"
 	 weight    = 2
    [[languages.en.menu.main]]
 	 identifier = "artivisme"
-     name       = "artivism"
+     name       = "Artivism"
      url        = "artivisme/"
 	 weight    = 3
 	 [[languages.en.menu.main]]
 	 identifier = "publications"
-     name       = "publications"
+     name       = "Publications"
      url        = "publications/"
 	 weight    = 4
    [[languages.en.menu.main]]
 	 identifier = "contact"
-     name       = "contact"
+     name       = "Contact"
      url        = "contact/"
 	 weight    = 5
 
