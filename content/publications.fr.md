@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "publications"
 ---
 Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques), des [articles](#articles). 
 

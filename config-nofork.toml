@@ -66,7 +66,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
- 
+  homeSubtitle = "Essayiste // Prospectiviste"
 
   # Set a background for the homepage
   backgroundImage = "images/background-rs.jpg"
@@ -141,7 +141,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = " "
-    logoText     = "PLANET HOME"
+    logoText     = "planet home"
     logoHomeLink = "/"
     logoCursorColor    = "#86C885"
 
@@ -176,76 +176,52 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.fr]
- 
+    contentDir = "content/fr"
     disabled = false
     languageCode = "fr-FR"
     languageDirection = "ltr"
-    languageName = "FR"
+    languageName = "fr"
     title = "Raphaël Stevens"
     weight = 1
   [languages.fr.params]
-    homeSubtitle  = "Essayiste // Prospectiviste"
- [[languages.fr.menu.main]]
-    identifier = "about"
-    name       = "bio"
-    url        = "about/"
-	weight    = 1
-[[languages.fr.menu.main]]
-    identifier = "recherche"
-    name       = "recherche"
-    url        = "recherche/"
-	weight    = 2
-[[languages.fr.menu.main]]
-    identifier = "publications"
-    name       = "publications"
-    url        = "publications/"
-	weight    = 4
-[[languages.fr.menu.main]]
-    identifier = "artivisme"
-    name       = "artivisme"
-    url        = "artivisme/"
-	weight    = 3
-[[languages.fr.menu.main]]
-    identifier = "contact"
-    name       = "contact"
-    url        = "contact/"
-	weight    = 5
+    subtitle  = "Essayiste // Prospectiviste"
 
   [languages.en]
-
+   contentDir = "content/en"
     disabled = false
     languageCode = "en-us"
     languageDirection = "ltr"
-    languageName = "EN"
+    languageName = "en"
     title = "Raphaël Stevens"
     weight = 2
   [languages.en.params]
-    homeSubtitle  = "Essayist // Prospectivist"
-   [[languages.en.menu.main]]
-	 identifier = "about"
-     name       = "about"
-     url        = "about/"
-	 weight    = 1
-   [[languages.en.menu.main]]
-	 identifier = "recherche"
-     name       = "research"
-     url        = "recherche/"
-	 weight    = 2
-   [[languages.en.menu.main]]
-	 identifier = "artivisme"
-     name       = "artivism"
-     url        = "artivisme/"
-	 weight    = 3
-	 [[languages.en.menu.main]]
-	 identifier = "publications"
-     name       = "publications"
-     url        = "publications/"
-	 weight    = 4
-   [[languages.en.menu.main]]
-	 identifier = "contact"
-     name       = "contact"
-     url        = "contact/"
-	 weight    = 5
+    subtitle  = "Essayist // Prospectivist"
+ 
+ [[languages.en.menu.main]]
 
-
-
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "Bio"
+    url        = "about/"
+	weight    = 1
+  [[menu.main]]
+    identifier = "recherche"
+    name       = "Recherche"
+    url        = "recherche/"
+	weight    = 2
+  [[menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "publications/"
+	weight    = 4
+   [[menu.main]]
+    identifier = "artivisme"
+    name       = "Artivisme"
+    url        = "artivisme/"
+	weight    = 3
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "contact/"
+	weight    = 5
