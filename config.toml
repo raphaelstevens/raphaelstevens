@@ -141,7 +141,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = " "
-    logoText     = "PLANET HOME"
+    logoText     = "HOME"
     logoHomeLink = "/"
     logoCursorColor    = "#86C885"
 
