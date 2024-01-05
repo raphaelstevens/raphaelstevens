@@ -32,7 +32,7 @@ Du côté artistique, les propositions de collaboration au confluent entre arts,
 
 ### Etudiant·e·s
 
-Si vous cherchez des infos, commencez éventuellement par un ou plusieurs [livres](https://collapsologie.info), et pourquoi pas, explorer la littérature scientifique sur le portail [collapsologie.info](https://collapsologie.info). Sélectionnez le mot-clé "limits-to-growth" ou "existential-risks" pour les références principales. 
+Si vous cherchez des infos, je vous suggère des [livres](https://collapsologie.info), et pourquoi pas d'explorer la littérature scientifique sur le portail [collapsologie.info](https://collapsologie.info). Sélectionnez le mot-clé "limits-to-growth" ou "existential-risks" pour les références principales. 
 
 Si vous ne trouvez pas, écrivez-moi :wink:
 
