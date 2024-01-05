@@ -5,13 +5,13 @@ I publish my analyses in [books](#books), [columns](#columns), [articles](#artic
 
 ### Books
 
-- *[_How Everything Can Collapse_](https://www.wiley.com/en-us/How+Everything+Can+Collapse%3A+A+Manual+for+our+Times-p-9781509541393)*, 2015 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Comment-seffondrer-collapsologie-g%C3%A9n%C3%A9rations-pr%C3%A9sentes/dp/2021223310/), & [Press](#presse). 
+*[_How Everything Can Collapse_](https://www.wiley.com/en-us/How+Everything+Can+Collapse%3A+A+Manual+for+our+Times-p-9781509541393)*, 2015 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Comment-seffondrer-collapsologie-g%C3%A9n%C3%A9rations-pr%C3%A9sentes/dp/2021223310/), & [Press](#presse). 
 
-- *[Petit traité de résilience locale](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/)*, 2015. Reviews on [AMZN](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862). [Free PDF/ EPUB copy in french](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/).
+*[Petit traité de résilience locale](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/)*, 2015. Reviews on [AMZN](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862). [Free PDF/ EPUB copy in french](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/).
 
-- [_Another End of the World is Possible_](https://www.wiley.com/en-us/Another+End+of+the+World+is+Possible%3A+Living+the+Collapse+%28and+Not+Merely+Surviving+It%29-p-9781509544677), 2018 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Une-autre-fin-monde-possible/dp/2021332586/). 
+[_Another End of the World is Possible_](https://www.wiley.com/en-us/Another+End+of+the+World+is+Possible%3A+Living+the+Collapse+%28and+Not+Merely+Surviving+It%29-p-9781509544677), 2018 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Une-autre-fin-monde-possible/dp/2021332586/). 
 
-- *[Aux origines de la catastrophe](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html)*, 2020. Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes-nous/dp/B081WHR6HJ/). 
+*[Aux origines de la catastrophe](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html)*, 2020. Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes-nous/dp/B081WHR6HJ/). 
 
 ### Covers
 (GRC, TUR , BRE to come)
