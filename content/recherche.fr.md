@@ -1,5 +1,5 @@
 ---
-title: "recherche"
+title: "Recherche"
 ---
 Passionné de philosophie des sciences, je suis convaincu que des approches résolument transdisciplinaires sont désormais nécessaires. Les problématiques actuelles, inédites par leur ampleur, leur intrication et leur caractère potentiellement catastrophique, échappent aux grilles d'analyse cloisonnées et requièrent de mobiliser des regards croisés.
 
@@ -14,16 +14,16 @@ La complexité de ces défis tient à l'existence de points de bascule critiques
 
 Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapsosophie]. Les enjeux politiques doivent aussi être abordés pour déterminer ce qu'il faut faire, comment le faire et avec qui le faire [collapsopraxis].
 
-Je maintiens une bibliographie sur ces sujets depuis plus de dix ans. Rendez-vous sur le site [https://collapsologie.info](https://www.collapsologie.info/fr/science). Plus de 8000 articles scientifiques y sont recensés.
+Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets, 8000+ articles scientifiques y sont recensés.
 
 ### Résilience
 [Capacité à encaisser les chocs et à se transformer]
 
-Lorsque des catastrophes frappent un territoire, toutes les communautés ne font pas preuve de la même résilience. D’où vient cette capacité de rebond ? Mon intérêt porte sur deux facteurs clés : la mémoire collective des événements passés et la solidité des liens internes aux communautés.
+Lorsque des catastrophes frappent un territoire, toutes les communautés ne font pas preuve de la même résilience. D’où vient cette capacité de rebond ? Mon intérêt porte sur deux facteurs clés : la mémoire collective (vécus des événements passés) et le capital social (bonding, bridging, linking).
 
 Ma démarche s'inscrit dans une conception transformatrice de la résilience centrée sur les populations locales, leurs besoins et leurs aspirations propres, tout prenant en considération les relations de pouvoir et les inégalités qui les traversent.
 
-A travers le partage de vécus, les commémorations ou les élans de solidarité, les communautés résilientes puisent dans leur «&nbsp;capital social&nbsp;» pour se reconstruire. L’objectif est de mieux comprendre les ressorts de cette propriété émergente. Mais aussi de réfléchir à comment pouvoirs publics et collectifs citoyens peuvent la nourrir. 
+A travers le partage de vécus, les commémorations ou les élans de solidarité, les communautés résilientes puisent dans leur capital social pour se reconstruire. L’objectif est de mieux comprendre les ressorts de cette propriété émergente. Mais aussi de réfléchir à comment pouvoirs publics et collectifs citoyens peuvent la nourrir. 
 
 ### Intuition 
 [Faculté complémentaire à la raison et indispensable pour renforcer nos capacités d'anticipation]

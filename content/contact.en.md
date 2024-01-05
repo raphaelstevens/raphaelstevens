@@ -1,5 +1,5 @@
 ---
-title: "contact"
+title: "Contact"
 weight: "4"
 ---
 

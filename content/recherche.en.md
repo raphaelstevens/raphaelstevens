@@ -1,5 +1,5 @@
 ---
-title: "research"
+title: "Research"
 ---
 I am convinced that radically interdisciplinary approaches are now needed. The challenges we face today, unprecedented in scale, complexity and potentially catastrophic risks, defy compartmentalised analytical frameworks and require mobilising diverse perspectives.
 
@@ -15,17 +15,17 @@ The complexity of these interconnected challenges stems from critical tipping po
 
 It is also crucial to question the place of emotions and spirituality, to seek to find meaning again and renew our relationship with the world in order to weather the storms [collapsosophy]. The political stakes must also be addressed to determine what must be done, how and with whom [collapsopraxis].
 
-I have maintained a bibliography on these subjects for over ten years. Visit the website [https://collapsologie.info](https://www.collapsologie.info/en/science). Over 8000 scientific articles are referenced there.
+My bibliography on these topics is shared on [https://collapsologie.info](https://www.collapsologie.info/en/science).
 
 ### Resilience
 
 [Capacity to withstand shocks and transform]
 
-When disasters strike a region, not all communities display the same resilience. Where does this rebound capacity come from? My interest focuses on two key factors: the collective memory of past events and the strength of internal links within communities.
+When disasters strike a region, not all communities display the same resilience. Where does this "rebound capacity" come from? My interest focuses on two key factors: social memory and bonding and bridging social capital.
 
-My approach is grounded in a transformative conception of resilience centered on local populations, their needs and their own aspirations, while taking into account the power relations and inequalities that run through them.
+My approach is grounded in a transformative conception of resilience centered on local populations, their needs and their own aspirations, while taking into account the power relations and inequalities.
 
-Through sharing experiences, commemorations, or surges of solidarity, resilient communities draw on their "social capital" to rebuild. The goal is to better understand the drivers of this emergent property. But also to consider how public authorities and citizen collectives can nurture it.
+Through sharing experiences, commemorations, or mutual-aid, resilient communities draw on their "social capital" to rebuild. The goal is to better understand the drivers of this emergent property. But also to consider how public authorities and citizen collectives can nurture it.
 
 ### Intuition
 

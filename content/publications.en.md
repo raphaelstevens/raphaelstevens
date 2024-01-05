@@ -1,5 +1,5 @@
 ---
-title: "publications"
+title: "Publications"
 ---
 I publish my analyses in [books](#books), [columns](#columns), [articles](#articles).
 

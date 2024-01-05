@@ -55,18 +55,11 @@ disableHugoGeneratorInject = false
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
  
-
-
-
   # Metadata mostly used in document's head
   # 
-  description = "contact"
+  description = "contact Raphaël Stevens"
   keywords = "contact, prospective, risques globaux, collapsologie, effondrement, résilience, intuition, science post-normale, artivisme, raphael stevens, comment tout peut s'effondrer, une autre fin du monde est possible"
   images = [""]
-
-  # Home subtitle of the index page.
-  #
- 
 
   # Set a background for the homepage
   backgroundImage = "images/background-rs.jpg"
@@ -129,7 +122,7 @@ disableHugoGeneratorInject = false
     copyright = false
     author = true
 
-    topText = ["Made with &#10084;"]
+    topText = ["Made <a href=\"https://github.com/raphaelstevens/raphaelstevens\">with</a> &#10084;"]
     bottomText = []
 
   # Colors for favicons
