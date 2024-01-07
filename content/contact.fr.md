@@ -33,20 +33,6 @@ Du côté artistique, les propositions de collaboration au confluent entre arts,
 
 ### Etudiant·e·s
 
-Pour vos recherches,  je vous suggère les portails de ressources documentaires de l'[Observatoire de l'Anthropocène](https://obsant.eu/documentation/), [Rhizome](https://rhizome.etopia.be/Default/accueil-portal.aspx) (Etopia) et [collapsologie.info](https://www.collapsologie.info/fr/science) pour les références scientifiques (Sélectionnez le mot-clé «&nbsp;limits-to-growth&nbsp;» pour les discussions générales). NB : Les vidéos coûtent cher en énergie et sont, pour la plupart, "seulement" des introductions à la pensée des auteur.e.s. 
+Pour vos recherches,  je vous suggère les portails de ressources documentaires de l'[Observatoire de l'Anthropocène](https://obsant.eu/documentation/), [Rhizome](https://rhizome.etopia.be/Default/accueil-portal.aspx) (Etopia) et [collapsologie.info](https://www.collapsologie.info/fr/science) pour les références scientifiques (Sélectionnez le mot-clé «&nbsp;limits-to-growth&nbsp;» pour les discussions générales). 
 
 Si vous ne trouvez pas, écrivez-moi 😉
-
-### Liens
-
-- [Portail collapsologie.info](https://collapsologie.info/)
-- [Institut Momentum](https://institutmomentum.org/)
-- [Greenloop](https://greenloop.eu/)
-- [Biomimicry Europa](https://www.biomimicryeuropa.eu/)
-- [Imagine Demain le Monde](https://www.imagine-magazine.com/)
-- [Institut Eco-Conseil](https://www.eco-conseil.be/)
-- [Pablo Servigne](https://pabloservigne.com/)
-- [Gauthier Chapelle](https://www.babelio.com/auteur/Gauthier-Chapelle/86103)
-- [Seuil, collection Anthropocène](https://www.seuil.com/collection/anthropocene-4858)
-- [Observatoire de l'Anthropocène](https://obsant.eu)
-
