@@ -7,7 +7,7 @@ With this in mind, my work centres on several interconnected, forward-looking th
 
 ### Collapsology
 
-[Transdisciplinary study of collapse risks and dynamics]
+> Transdisciplinary study of collapse risks and dynamics
 
 The accelerating decline of biodiversity, multiplication of extreme weather events, intensification of geopolitical and resource tensions, rising inequality, persisting armed conflicts, and resurgence of epidemics—the interaction of these dynamics destabilizes humanity's future. Irreversible social and environmental collapses are already unfolding, while others appear imminent. Researchers across disciplines now describe scenarios where civilization or even our species' existence is imperiled. Serious foresight must confront these challenges.
 
@@ -19,7 +19,7 @@ My bibliography on these topics is shared on [https://collapsologie.info](https:
 
 ### Resilience
 
-[Capacity to withstand shocks and transform]
+> Capacity to withstand shocks and transform
 
 When disasters strike a region, not all communities display the same resilience. Where does this "rebound capacity" come from? My interest focuses on two key factors: social memory and bonding and bridging social capital.
 
@@ -29,13 +29,13 @@ Through sharing experiences, commemorations, or mutual-aid, resilient communitie
 
 ### Intuition
 
-[A faculty complementary to reason and indispensable for strengthening our anticipatory capacities]
+> A faculty complementary to reason and indispensable for strengthening our anticipatory capacities
 
 Intuition is far more than a secondary cognitive mode. It is a faculty that can help us make unexpected associations and perceive imperceptible signals in an increasingly complex world. Work in cognitive psychology and neuroscience reveals, for example, the crucial role of intuition in decision-making in VUCA (Volatile, Uncertain, Complex and Ambiguous) environments. By connecting disparate pieces of information lodged in our associative memory, intuition gives rise to new ideas and pushes the boundaries of creativity. It can be an asset to enhance our capacities for anticipation and adaptation, and sharpen our perception of possible futures.
 
 For nearly four centuries, we have cultivated analytical and rational thinking on a collective scale. What if we did the same for intuition? This would not be about subtracting the former faculty for the benefit of the latter, but about combining their strengths (and recognizing their weaknesses). From this perspective, intuitive thought, its role in a group, and the means to socially valorize it appear as an underexplored research area. The idea is to design and set-up experiments to investigate these questions.
 
 ### Post-Normal Science
-[A scientific approach adapted to the complexity of 21st century challenges]
+> A scientific approach adapted to the complexity of 21st century challenges
 
 Post-normal science provides the general framework for my approach. Facing the complexity of contemporary challenges, it promotes transdisciplinary and socially engaged approaches such participatory action research. This concept emerged in the 1990s to overcome the limitations of conventional scientific approaches on problems characterized by deep uncertainty and a plurality of worldviews. From this perspective, the scientific process involves considering the views of scientists in governing catastrophic global risks, as well as experts, decision-makers and civil society, by valuing traditional knowledge and perspectives from diverse cultures. 

@@ -6,6 +6,7 @@ weight: "4"
 Hi :wave:
 
 Reach me via&nbsp; {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}.
+
 ### Readers
 
 Thank you for your feedback and suggestions. I personally read all received messages and do my best to respond.
