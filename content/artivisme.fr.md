@@ -1,8 +1,6 @@
 ---
 title: "Artivisme"
 ---
-[L’inattendu au service du changement social. Réenchantement contestataire]
-
 Face aux incertitudes et aux ruptures de notre époque, il est plus que jamais nécessaire de nous connecter à notre créativité, à nos émotions et nos sensibilités. Tisser des liens sensibles avec le monde plus qu'humain qui nous entoure, sonder les peurs et les espoirs qui traversent l'humanité, développer notre intuition pour discerner les signaux faibles et les possibles émergents : les arts jouent un rôle crucial pour faire évoluer les regards et stimuler notre imagination collective. 
 
 Je m'investis dans un rôle de passeur aux intersections entre sciences, arts et transitions pour croiser les perspectives autour d'une réflexion commune. J'explore plus particulièrement l'artivisme social-écologique à travers l'organisation d'expositions. J'entends par artivisme des formes d'art engagé qui bousculent notre rapport au temps et à l'espace, et pourraient accélérer notre passage à l'action.

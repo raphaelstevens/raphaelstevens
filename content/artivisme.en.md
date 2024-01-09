@@ -3,14 +3,14 @@ title: "Artivism"
 ---
 Facing the uncertainties and ruptures of our time, it is more necessary than ever to connect with our creativity, emotions, and sensitivities. Weaving sensitive bonds with the more-than-human world around us, sounding out the fears and hopes traversing humanity, developing our intuition to discern weak signals and emerging possibilities: the arts play a crucial role in shifting perspectives and stimulating our collective imagination.
 
-I involve myself in a bridging role at the intersections of sciences, arts and a just transition, to bring together perspectives around joint reflection. I specifically explore socio-ecological artivism through curating exhibitions. By artivism I mean forms of engaged art that disrupt our relationship with time and space, and could accelerate our passage to action.
+I involve myself in a bridging role at the intersections of sciences, arts and a just transition, to bring together perspectives around joint reflection. I specifically explore socio-ecological artivism through curating exhibitions. By "artivism", I mean creative mediums and projects that encourage active participation, with the goal of transforming people's relationship with time and space, and motivating urgent action.
 
 ### Exhibitions
 
 *[Les unes de l'urgence, un demi-siècle de couvertures marquantes](http:s://)*, [in prep, 2024]. 
 
 *[GRACIAS, The Good Collapse](https://normalfutu.re/uncategorized/grasias-the-good-collapse-exhibition/)*, Espacio Fundación Telefónica, 3 nov - 17 apr, Madrid, 2021.  
->As part of [La Gran Imaginación. Historias del Futuro]([https://www.fundaciontelefonica.com/exposiciones/la-gran-imaginacion-historias-del-futuro/](https://www.fundaciontelefonica.com/exposiciones/la-gran-imaginacion-historias-del-futuro/)) by [Jorge Camacho]([https://www.iftf.org/people/jorge-camacho-rojas/](https://www.iftf.org/people/jorge-camacho-rojas/)). Collaboration with Régis and Cédric of studio [N O R M A L S]([https://normalfutu.re/](https://normalfutu.re/)). [GRACIAS, The Good Collapse]([https://normalfutu.re/studio/grasias-the-good-collapse-digital-catalogue/](https://normalfutu.re/studio/grasias-the-good-collapse-digital-catalogue/)) tells the story of a nation ready to sacrifice itself for the common good by providing all means for citizens to ensure their survival and (re)build society.
+> As part of [La Gran Imaginación. Historias del Futuro]([https://www.fundaciontelefonica.com/exposiciones/la-gran-imaginacion-historias-del-futuro/](https://www.fundaciontelefonica.com/exposiciones/la-gran-imaginacion-historias-del-futuro/)) by [Jorge Camacho]([https://www.iftf.org/people/jorge-camacho-rojas/](https://www.iftf.org/people/jorge-camacho-rojas/)). Collaboration with Régis and Cédric of studio [N O R M A L S]([https://normalfutu.re/](https://normalfutu.re/)). [GRACIAS, The Good Collapse]([https://normalfutu.re/studio/grasias-the-good-collapse-digital-catalogue/](https://normalfutu.re/studio/grasias-the-good-collapse-digital-catalogue/)) tells the story of a nation ready to sacrifice itself for the common good by providing all means for citizens to ensure their survival and (re)build society.
 
 |![1](/img/good-collapse-1.jpg)Credits: Espacio Fundación Telefónica|
 |---|

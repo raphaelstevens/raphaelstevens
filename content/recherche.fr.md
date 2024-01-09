@@ -14,7 +14,7 @@ La complexité de ces défis tient à l'existence de points de bascule critiques
 
 Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapsosophie]. Les enjeux politiques doivent aussi être abordés pour déterminer ce qu'il faut faire, comment le faire et avec qui le faire [collapsopraxis].
 
-Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets, 8000+ articles scientifiques y sont recensés.
+Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets, 8000+ articles scientifiques y sont référencés.
 
 ### Résilience
 > Capacité à encaisser les chocs et à se transformer
