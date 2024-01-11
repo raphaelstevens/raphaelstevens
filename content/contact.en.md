@@ -13,20 +13,20 @@ Thank you for your feedback and suggestions. I personally read all received mess
 
 ### Journalists
 
-I am available, in writing or by phone, for interviews and articles directly related to the topics I cover.
+I am available for interviews and articles directly related to the [topics I cover](/recherche). 
 
-I do not comment on breaking news. However, if you need relevant bibliographic resources for your articles, I am happy to share my expertise, off the record.
+Please note that I do not comment on breaking news, but I am happy to share my expertise and provide relevant bibliographic resources for your articles, off the record.
 
 ### Event Organizers
 
-I am regularly invited as an independent speaker and enjoy exchanging ideas with audiences. Thank you for your interest.
+I am regularly invited as an independent speaker and enjoy engaging with audiences. Thank you for your interest. 
 
-As a resident of the Condroz region, I usually limit my travel to Belgium and Northern France, including Paris, but who knows... As a freelancer, I request financial compensation and coverage of transportation, as well as accommodation costs for events abroad. 
+As a resident of the Condroz region, I usually limit my travel to Belgium and Northern France, including Paris. However, I am open to considering events abroad, provided that financial compensation, transportation, and accommodation costs are covered.
 
 ### Researchers / Artists
 
-I am open to collaborations with scientists and artists whose work relates to my research topics.
+I'm open to collaborating with scientists and artists whose work aligns with my [research interests](/recherche). 
 
-Regarding research, I am motivated by transdisciplinary approaches and happy to share my knowledge on the scientific literature.
+I'm particularly enthusiastic about transdisciplinary approaches and am happy to share my knowledge of the scientific literature.
 
-On the artistic side, proposals for collaboration at the confluence of arts, sciences and just transition are welcome, especially if they seek to encourage the crossing of perspectives and value the interdependencies between these domains.
+In terms of artistic collaborations, I'm interested in projects that bring together arts, sciences, and just transition, especially those that encourage the exchange of perspectives and recognize the interconnectedness of these fields

@@ -1,9 +1,9 @@
 ---
 title: "Artivism"
 ---
-Facing the uncertainties and ruptures of our time, it is more necessary than ever to connect with our creativity, emotions, and sensitivities. Weaving sensitive bonds with the more-than-human world around us, sounding out the fears and hopes traversing humanity, developing our intuition to discern weak signals and emerging possibilities: the arts play a crucial role in shifting perspectives and stimulating our collective imagination.
+In times of uncertainty and disruption, it is more crucial than ever to tap into our creativity, emotions, and sensitivities. By forging meaningful connections with the more-than-human world around us, exploring the anxieties and aspirations that traverse humanity, and honing our intuition to detect subtle signals and emerging possibilities, the arts have the potential to precipitate a profound shift in perspective and stimulate our collective imagination.
 
-I involve myself in a bridging role at the intersections of sciences, arts and a just transition, to bring together perspectives around joint reflection. I specifically explore socio-ecological artivism through curating exhibitions. By "artivism", I mean creative mediums and projects that encourage active participation, with the goal of transforming people's relationship with time and space, and motivating urgent action.
+I endeavour to fulfill a bridging role at the nexus of science, art, and a sustainable transition, bringing together diverse viewpoints for joint reflection. My focus lies in exploring socio-ecological artivism through curating exhibitions. By artivism, I refer to creative mediums and initiatives that encourage active engagement, with the ultimate goal of transforming people's relationship with time and space, and motivating urgent action.
 
 ### Exhibitions
 
