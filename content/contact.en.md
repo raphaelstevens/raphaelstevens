@@ -13,9 +13,7 @@ Thank you for your feedback and suggestions. I personally read all received mess
 
 ### Journalists
 
-I am available for interviews and articles directly related to the [topics I cover](/recherche). 
-
-Please note that I do not comment on breaking news, but I am happy to share my expertise and provide relevant bibliographic resources for your articles, off the record.
+I am available for interviews and articles directly related to the [topics I cover](/recherche). Please note that I do not comment on breaking news.
 
 ### Event Organizers
 

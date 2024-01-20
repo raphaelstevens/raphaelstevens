@@ -107,6 +107,7 @@ I publish my analyses in [books](#books), [columns](#columns), [articles](#artic
 - «&nbsp;[Deep Adaptation opens up a necessary conversation about the breakdown of civilisation](https://www.opendemocracy.net/en/oureconomy/deep-adaptation-opens-necessary-conversation-about-breakdown-civilisation/)&nbsp;», openDemocracy, 2020.
 - [The overview effect](/img/overview-effect.pdf), catalogue de l'exposition (Tendencies '19, 26 avril - 9 juin 2019), Bruxelles, 2019.
 - «&nbsp;[Vivre l'effondrement  (et pas seulement y survivre](https://institutmomentum.org/vivre-leffondrement)&nbsp;», Institut Momentum, 2018. 
+- - [Préface](http://www.editions-utopia.org/wp-content/uploads/2016/12/Pages-de-Effondrement.pdf) pour Renaud Duterme, De quoi l'effondrement est-il le nom : La fragmentation du monde, Editions Utopia, 2016.
 - «&nbsp;[Les inégalités, un facteur d’effondrement](https://etopia.be/blog/2014/12/17/les-inegalites-un-facteur-deffondrement/)&nbsp;», Etopia, 2014.
 - «&nbsp;[Alors, ca vient ? Pourquoi la transition se fait attendre](https://www.barricade.be/publications/analyses-etudes/alors-ca-vient-pourquoi-transition-se-fait-attendre)&nbsp;», Barricade, 2014.
 - «&nbsp;[Faut-il sauver le concept de résilience ?](http://www.institutmomentum.org/resilience-relianceseminaire-du-20-septembre-2013-par-pablo-servigne-raphael-stevens-et-hugo-carton/)&nbsp;», Institut Momentum, 2013.
