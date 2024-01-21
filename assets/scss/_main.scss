@@ -189,7 +189,28 @@ figure {
   }
 }
 
-em, i, strong {
+em, i {
+  // Default
+  color: $light-color-variant;
+
+  @media (prefers-color-scheme: dark) {
+    color: $dark-color-variant;
+  }
+
+  @media (prefers-color-scheme: light) {
+    color: $light-color-variant;
+  }
+
+  [data-theme=dark] & {
+    color: #a9a9b3;
+  }
+
+  [data-theme=light] & {
+    color: black;
+  }
+}
+
+strong {
   // Default
   color: $light-color-variant;
 
@@ -209,6 +230,7 @@ em, i, strong {
     color: black;
   }
 }
+
 
 code {
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;

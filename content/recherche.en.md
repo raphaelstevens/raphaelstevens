@@ -7,7 +7,7 @@ With this in mind, my work centres on several interconnected, forward-looking th
 
 ### Collapsology
 
-> Transdisciplinary study of collapse risks and dynamics
+> *Transdisciplinary study of collapse risks and dynamics*
 
 The accelerating decline of biodiversity, the multiplication of extreme weather events, the intensification of geopolitical and resource tensions, rising inequality, persisting armed conflicts, and the resurgence of epidemics – the interaction of these dynamics threatens the very stability of humanity's future. Irreversible social and environmental collapses are already unfolding, while others appear imminent. Researchers across various disciplines now describe scenarios where civilization, or even our species' existence, is at risk. Serious foresight must confront these challenges head-on.
 
@@ -19,7 +19,7 @@ I share my bibliography on these topics via [collapsologie.info](https://www.col
 
 ### Resilience
 
-> Capacity to withstand shocks and transform
+> *Capacity to withstand shocks and transform*
 
 When disasters strike a region, not all communities display the same resilience. Where does this "rebound capacity" come from? My interest focuses on two key factors: social memory and bonding, bridging and linking social capital.
 
@@ -29,7 +29,7 @@ Through sharing experiences, commemorations, or mutual-aid, resilient communitie
 
 ### Intuition
 
-> A faculty complementary to reason and indispensable for strengthening our anticipatory capacities
+> *A faculty complementary to reason and indispensable for strengthening our anticipatory capacities*
 
 Intuition is far more than just a secondary cognitive mode. It's a faculty that can help us make unexpected associations and perceive imperceptible signals in an increasingly complex world. Research in cognitive psychology and neuroscience shows, for example, the crucial role of intuition in decision-making in VUCA (Volatile, Uncertain, Complex and Ambiguous) environments. By connecting disparate pieces of information lodged in our associative memory, intuition gives rise to new ideas and pushes the boundaries of creativity. It can be an asset to enhance our capacities for anticipation and adaptation, and sharpen our perception of possible futures.
 
@@ -37,7 +37,7 @@ For nearly four centuries, we've cultivated analytical and rational thinking on 
 
 ### Post-Normal Science
 
-> A scientific approach adapted to the complexity of 21st century challenges
+> *A scientific approach adapted to the complexity of 21st century challenges*
 
 Post-normal science provides the general framework for my approach. In the face of contemporary challenges' complexity, it advocates for transdisciplinary and socially engaged approaches, such as participatory action research. This concept emerged in the 1990s to overcome the limitations of conventional scientific approaches on problems characterized by deep uncertainty and a plurality of worldviews. From this perspective, the scientific process involves considering the views of scientists in governing contemporary risks, as well as experts, decision-makers, and civil society, by valuing traditional knowledge and perspectives from diverse cultures.
 

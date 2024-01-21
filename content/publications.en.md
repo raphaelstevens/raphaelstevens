@@ -5,13 +5,13 @@ I publish my analyses in [books](#books), [columns](#columns), [articles](#artic
 
 ### Books
 
-*[_How Everything Can Collapse_](https://www.wiley.com/en-us/How+Everything+Can+Collapse%3A+A+Manual+for+our+Times-p-9781509541393)*, 2015 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Comment-seffondrer-collapsologie-g%C3%A9n%C3%A9rations-pr%C3%A9sentes/dp/2021223310/), & [Press](#presse). 
+***[_How Everything Can Collapse_](https://www.wiley.com/en-us/How+Everything+Can+Collapse%3A+A+Manual+for+our+Times-p-9781509541393)***, 2015 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Comment-seffondrer-collapsologie-g%C3%A9n%C3%A9rations-pr%C3%A9sentes/dp/2021223310/), & [Press](#presse). 
 
-*[Petit traité de résilience locale](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/)*, 2015. Reviews on [AMZN](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862). [Free PDF/ EPUB copy in french](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/).
+***[Petit traité de résilience locale](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/)***, 2015. Reviews on [AMZN](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862). [Free PDF/ EPUB copy in french](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/).
 
-[_Another End of the World is Possible_](https://www.wiley.com/en-us/Another+End+of+the+World+is+Possible%3A+Living+the+Collapse+%28and+Not+Merely+Surviving+It%29-p-9781509544677), 2018 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Une-autre-fin-monde-possible/dp/2021332586/). 
+***[Another End of the World is Possible](https://www.wiley.com/en-us/Another+End+of+the+World+is+Possible%3A+Living+the+Collapse+%28and+Not+Merely+Surviving+It%29-p-9781509544677)***, 2018 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Une-autre-fin-monde-possible/dp/2021332586/). 
 
-*[Aux origines de la catastrophe](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html)*, 2020. Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes-nous/dp/B081WHR6HJ/). 
+***[Aux origines de la catastrophe](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html)***, 2020. Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes-nous/dp/B081WHR6HJ/). 
 
 ### Covers
 (GRC, TUR , BRE to come)
@@ -102,12 +102,12 @@ I publish my analyses in [books](#books), [columns](#columns), [articles](#artic
 
 - «&nbsp;[Warum man sich mit dem Zusammenbruch auseinandersetzen muss](https://agora42.de/shop/1-2023-zusammenbruch/)&nbsp;», agora 42, janv 2023.
 - «&nbsp;[Reasons for anticipating societal collapse](https://www.researchgate.net/profile/Rupert-Read/publication/360947368_Deep_Adaptation_Navigating_the_Realities_of_Climate_Chaos/links/6294eb31c660ab61f852a2f8/Deep-Adaptation-Navigating-the-Realities-of-Climate-Chaos.pdf#page=101)&nbsp;», in "Deep Adaptation: Navigating the Realities of Climate Chaos", Eds. Rupert Read & Jem Bendell, Polity Press, 2021, pp. 87‑101. 
-- [Préface et postface](https://ref.lamartinieregroupe.com/media/9782021223316/122331_extrait_Extrait_0.pdf) inédites pour l'édition poche de Comment tout peut s'effondrer, Seuil, 2021. 
+- [Préface et postface](https://ref.lamartinieregroupe.com/media/9782021223316/122331_extrait_Extrait_0.pdf) inédites pour l'édition poche de *Comment tout peut s'effondrer*, Seuil, 2021. 
 - «&nbsp;[How Everything Can Collapse: Excerpt](https://www.resilience.org/stories/2020-08-10/how-everything-can-collapse-excerpt/)&nbsp;», Resilience.org, 2020.
 - «&nbsp;[Deep Adaptation opens up a necessary conversation about the breakdown of civilisation](https://www.opendemocracy.net/en/oureconomy/deep-adaptation-opens-necessary-conversation-about-breakdown-civilisation/)&nbsp;», openDemocracy, 2020.
 - [The overview effect](/img/overview-effect.pdf), catalogue de l'exposition (Tendencies '19, 26 avril - 9 juin 2019), Bruxelles, 2019.
 - «&nbsp;[Vivre l'effondrement  (et pas seulement y survivre](https://institutmomentum.org/vivre-leffondrement)&nbsp;», Institut Momentum, 2018. 
-- - [Préface](http://www.editions-utopia.org/wp-content/uploads/2016/12/Pages-de-Effondrement.pdf) pour Renaud Duterme, De quoi l'effondrement est-il le nom : La fragmentation du monde, Editions Utopia, 2016.
+- - [Préface](http://www.editions-utopia.org/wp-content/uploads/2016/12/Pages-de-Effondrement.pdf) pour Renaud Duterme, *De quoi l'effondrement est-il le nom : La fragmentation du monde*, Editions Utopia, 2016.
 - «&nbsp;[Les inégalités, un facteur d’effondrement](https://etopia.be/blog/2014/12/17/les-inegalites-un-facteur-deffondrement/)&nbsp;», Etopia, 2014.
 - «&nbsp;[Alors, ca vient ? Pourquoi la transition se fait attendre](https://www.barricade.be/publications/analyses-etudes/alors-ca-vient-pourquoi-transition-se-fait-attendre)&nbsp;», Barricade, 2014.
 - «&nbsp;[Faut-il sauver le concept de résilience ?](http://www.institutmomentum.org/resilience-relianceseminaire-du-20-septembre-2013-par-pablo-servigne-raphael-stevens-et-hugo-carton/)&nbsp;», Institut Momentum, 2013.
