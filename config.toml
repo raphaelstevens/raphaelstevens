@@ -173,7 +173,7 @@ disableHugoGeneratorInject = false
     disabled = false
     languageCode = "fr-FR"
     languageDirection = "ltr"
-    languageName = "fr"
+    languageName = "fr "
     title = "Raphaël Stevens"
     weight = 1
   [languages.fr.params]
@@ -209,7 +209,7 @@ disableHugoGeneratorInject = false
     disabled = false
     languageCode = "en-us"
     languageDirection = "ltr"
-    languageName = "en"
+    languageName = "en "
     title = "Raphaël Stevens"
     weight = 2
   [languages.en.params]
