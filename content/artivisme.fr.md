@@ -7,7 +7,7 @@ Je m'investis dans un rôle de passeur aux intersections entre sciences, arts et
 
 ### Expos
 
-***[Les unes de l'urgence, un demi-siècle de couvertures marquantes](https://)***, [en préparation, 2024]. 
+***[Les unes de l'urgence, un demi-siècle de couvertures marquantes](/artivisme)***, [en préparation, 2024]. 
 
 ***[GRACIAS, The Good Collapse](https://normalfutu.re/uncategorized/grasias-the-good-collapse-exhibition/)***, Espacio Fundación Telefónica, 3 nov - 17 apr, Madrid, 2021. 
 > Dans le cadre de [La Gran Imaginación. Historias del Futuro](https://www.fundaciontelefonica.com/exposiciones/la-gran-imaginacion-historias-del-futuro/) de [Jorge Camacho](https://www.iftf.org/people/jorge-camacho-rojas/). Collaboration avec Régis et Cédric du studio [N O R M A L S](https://normalfutu.re/). L'exposition [[catalogue digital](https://normalfutu.re/studio/grasias-the-good-collapse-digital-catalogue/)] raconte l'histoire d'une nation prête à se sacrifier pour le bien commun en fournissant tous les moyens aux citoyens pour assurer leur survie et (re)faire société.  

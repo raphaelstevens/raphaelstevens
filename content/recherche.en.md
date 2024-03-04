@@ -35,7 +35,7 @@ Intuition is far more than just a secondary cognitive mode. It's a faculty that 
 
 For nearly four centuries, we've cultivated analytical and rational thinking on a collective scale. What if we did the same for intuition? This wouldn't be about subtracting the former faculty for the benefit of the latter, but about combining their strengths (and recognizing their weaknesses). From this perspective, intuitive thought, its role in a group, and the means to socially valorize it appear as an underexplored research area. The idea is to design and set-up experiments to investigate these questions.
 
-### Post-Normal Science
+### Post-normal science
 
 > *A scientific approach adapted to the complexity of 21st century challenges*
 

@@ -13,7 +13,7 @@ Merci pour vos retours, suggestions et opinions qui me permettent de progresser.
 
 ### Journalistes
 
-Je suis généralement disponible pour des interviews et des articles en lien direct avec les [thèmes](recherche.fr.md) que j'aborde.  Je ne commente pas l'actualité immédiate. 
+Je suis généralement disponible pour des interviews et des articles en lien direct avec les [thèmes](recherche.fr.md) que j'aborde. Je ne commente pas l'actualité immédiate. 
 
 ### Organisateur·rice·s de conférences ou formations
 
