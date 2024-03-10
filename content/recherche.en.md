@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-I am convinced that radically interdisciplinary approaches are now needed. The challenges we face today, unprecedented in scale, complexity and potentially catastrophic risks, defy compartmentalised analytical frameworks and require mobilising diverse perspectives.
+The challenges we face today, unprecedented in scale, complexity and potentially catastrophic risks, defy compartmentalised analytical frameworks and require mobilising diverse perspectives.
 
 With this in mind, my work centres on several interconnected, forward-looking themes: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). The aim is to better grasp the vulnerabilities and tipping points that threaten society, as well as the conditions and levers for transformation that could boost our capacities for anticipation and adaptation.
 

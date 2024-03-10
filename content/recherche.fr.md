@@ -1,7 +1,7 @@
 ---
 title: "Recherche"
 ---
-Passionné de philosophie des sciences, je suis convaincu que des approches résolument transdisciplinaires sont désormais nécessaires. Les problématiques actuelles, inédites par leur ampleur, leur intrication et leur caractère potentiellement catastrophique, échappent aux grilles d'analyse cloisonnées et requièrent de mobiliser des regards croisés.
+Les problématiques actuelles, inédites par leur ampleur, leur intrication et leur caractère potentiellement catastrophique, échappent aux grilles d'analyse cloisonnées et requièrent de mobiliser des regards croisés.
 
 Dans cette optique, mes travaux portent sur plusieurs axes inter-reliés et prospectifs :  [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). L'objectif est de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi que les conditions et leviers de transformation qui permettraient d'accroître nos capacités d'anticipation et d'adaptation.
 
