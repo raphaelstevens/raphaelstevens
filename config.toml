@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
  
   # Metadata mostly used in document's head
   # 
-  description = "contact Raphaël Stevens"
+  description = "Bio | Recherche | Artivisme | Publications | Contact"
   keywords = "contact, prospective, risques globaux, collapsologie, effondrement, résilience, intuition, science post-normale, artivisme, raphael stevens, comment tout peut s'effondrer, une autre fin du monde est possible"
   images = [""]
 
@@ -169,8 +169,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.fr]
- 
-    disabled = false
+     disabled = false
     languageCode = "fr-FR"
     languageDirection = "ltr"
     languageName = "fr"
@@ -205,7 +204,6 @@ disableHugoGeneratorInject = false
 	weight    = 5
 
   [languages.en]
-
     disabled = false
     languageCode = "en-us"
     languageDirection = "ltr"
