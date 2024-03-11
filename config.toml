@@ -4,6 +4,7 @@ languageCode = "fr-fr"
 theme = "hello-friend-ng"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
+description = "hello world"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -52,9 +53,7 @@ disableHugoGeneratorInject = false
 [params]
 
   # Metadata mostly used in document's head
-  # 
-  author = "Raphaël Stevens"
-  og_image = "/img/background-rs.jpg"
+    og_image = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens"
   twitter = "@collapsology"
   description = "Bio | Recherche | Artivisme | Publications | Contact"
@@ -67,10 +66,9 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04"
  
   # Set a background for the homepage
-  backgroundImage = "/img/background-rs.jpg"
+  # backgroundImage = "/img/background-rs.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  #
   # gitUrl = ""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
