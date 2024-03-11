@@ -44,7 +44,7 @@
 {{ end }}
 
 <!-- Search Engine Crawler Tags -->
-<meta name="robots" content="index,follow,noarchive" />
+<meta name="robots" content="{{ if .IsHome }}index,follow,noarchive{{ else }}noodp,noindex,nofollow,noarchive{{ end }}" />
 <meta name="googlebot" content="index,follow,noarchive" />
 
 <!-- Social Media Tags -->
@@ -59,9 +59,6 @@
 <meta name="apple-mobile-web-app-title" content="{{ .Site.Params.sitename }}" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-
-
-
 
 <link rel="canonical" href="{{ .Permalink }}" />
 

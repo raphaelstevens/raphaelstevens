@@ -3,8 +3,7 @@ title   = "Raphaël Stevens"
 languageCode = "fr-fr"
 theme = "hello-friend-ng"
 defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = true
-description = "hello world"
+defaultContentLanguageInSubdir = false
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -53,11 +52,10 @@ disableHugoGeneratorInject = false
 [params]
 
   # Metadata mostly used in document's head
-    og_image = "/img/background-rs.jpg"
+  og_image = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens"
   twitter = "@collapsology"
   description = "Bio | Recherche | Artivisme | Publications | Contact"
-  keywords = "contact, prospective, risques globaux, collapsologie, effondrement, résilience, intuition, science post-normale, artivisme, raphael stevens, comment tout peut s'effondrer, une autre fin du monde est possible"
   images = [""]
 
   dateform        = "Jan 2, 2006"

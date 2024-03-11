@@ -1,5 +1,6 @@
 ---
 title: "Artivism"
+description: "In times of uncertainty and disruption, it is more crucial than ever to tap into our creativity, emotions, and sensitivities."
 ---
 In times of uncertainty and disruption, it is more crucial than ever to tap into our creativity, emotions, and sensitivities. By forging meaningful connections with the more-than-human world around us, exploring the anxieties and aspirations that traverse humanity, and honing our intuition to detect subtle signals and emerging possibilities, the arts have the potential to precipitate a profound shift in perspective and stimulate our collective imagination.
 

@@ -1,5 +1,6 @@
 ---
 title: "Artivisme"
+description: "Face aux incertitudes et aux ruptures de notre époque, il est plus que jamais nécessaire de nous connecter à notre créativité, à nos émotions et nos sensibilités"
 ---
 Face aux incertitudes et aux ruptures de notre époque, il est plus que jamais nécessaire de nous connecter à notre créativité, à nos émotions et nos sensibilités. Tisser des liens sensibles avec le monde plus qu'humain qui nous entoure, sonder les peurs et les espoirs qui traversent l'humanité, développer notre intuition pour discerner les signaux faibles et les possibles émergents : les arts jouent un rôle crucial pour faire évoluer les regards et stimuler notre imagination collective. 
 
