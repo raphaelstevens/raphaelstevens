@@ -50,19 +50,24 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
+
+  # Metadata mostly used in document's head
+  # 
+  author = "Raphaël Stevens"
+  og_image = "/img/background-rs.jpg"
+  sitename = "Raphaël Stevens"
+  twitter = "@collapsology"
+  description = "Bio | Recherche | Artivisme | Publications | Contact"
+  keywords = "contact, prospective, risques globaux, collapsologie, effondrement, résilience, intuition, science post-normale, artivisme, raphael stevens, comment tout peut s'effondrer, une autre fin du monde est possible"
+  images = [""]
+
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
  
-  # Metadata mostly used in document's head
-  # 
-  description = "Bio | Recherche | Artivisme | Publications | Contact"
-  keywords = "contact, prospective, risques globaux, collapsologie, effondrement, résilience, intuition, science post-normale, artivisme, raphael stevens, comment tout peut s'effondrer, une autre fin du monde est possible"
-  images = [""]
-
   # Set a background for the homepage
-  backgroundImage = "images/background-rs.jpg"
+  backgroundImage = "/img/background-rs.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
