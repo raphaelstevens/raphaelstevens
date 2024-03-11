@@ -87,7 +87,7 @@ disableHugoGeneratorInject = false
   # If this is set to "dark" or "light", the site will be in that theme unless
   # enableThemeToggle is on, and the user has changed the theme.
   #
-  defaultTheme = "dark"
+  # defaultTheme = "dark"
 
   # Sharing buttons
   #
