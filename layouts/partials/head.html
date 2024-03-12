@@ -44,8 +44,8 @@
 {{ end }}
 
 <!-- Search Engine Crawler Tags -->
-<meta name="robots" content="{{ if .IsHome }}index,follow,noarchive{{ else }}noodp,noindex,nofollow,noarchive{{ end }}" />
-<meta name="googlebot" content="index,follow,noarchive" />
+<meta name="robots" content="{{ if .IsHome }}index, follow, noarchive{{ else }}noindex, nofollow, noarchive{{ end }}" />
+<meta name="googlebot" content="{{ if .IsHome }}index, follow, noarchive{{ else }}noindex, nofollow, noarchive{{ end }}" />
 
 <!-- Social Media Tags -->
 <meta name="twitter:site" content="{{ .Site.Params.twitter }}" />
