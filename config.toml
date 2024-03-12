@@ -1,4 +1,4 @@
-baseURL = "https://raphaelstevens.xyz"
+baseURL = "/"
 title   = "Raphaël Stevens"
 languageCode = "fr-fr"
 theme = "hello-friend-ng"
