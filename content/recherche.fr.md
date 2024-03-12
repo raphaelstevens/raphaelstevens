@@ -1,5 +1,6 @@
 ---
 title: "Recherche"
+description: "Les problématiques actuelles, inédites par leur ampleur, leur intrication et leur caractère potentiellement catastrophique, échappent aux grilles d'analyse cloisonnées et requièrent de mobiliser des regards croisés."
 ---
 Les problématiques actuelles, inédites par leur ampleur, leur intrication et leur caractère potentiellement catastrophique, échappent aux grilles d'analyse cloisonnées et requièrent de mobiliser des regards croisés.
 

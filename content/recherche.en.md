@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "The challenges we face today, unprecedented in scale, complexity and potentially catastrophic risks, defy compartmentalised analytical frameworks and require mobilising diverse perspectives."
 ---
 The challenges we face today, unprecedented in scale, complexity and potentially catastrophic risks, defy compartmentalised analytical frameworks and require mobilising diverse perspectives.
 

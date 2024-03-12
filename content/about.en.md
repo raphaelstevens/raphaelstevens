@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Essayist // Prospectivist"
 ---
 As an essayist for the past decade and a fellow researcher at the [Momentum Institute](https://institutmomentum.org/), I [publish](/en/publications) prospective analyses on issues of transition, resilience, global systemic risks, and collapse in popular science books and articles. I give public lectures and offer training sessions, and workshops, often at the [Institut Eco-Conseil](https://www.eco-conseil.be/) (Belgium). Concurrently, I explore socio-ecological [artivism(/en/artivism) through organizing exhibitions like the one I curated at the [Bozar Center for Fine Arts](https://www.bozar.be/en/calendar/tendencies-19) in Brussels or the one I participated in at the [Espacio Fundación Telefónica](https://normalfutu.re/uncategorized/grasias-the-good-collapse-exhibition/) in Madrid.
 
