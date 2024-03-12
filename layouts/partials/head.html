@@ -4,11 +4,11 @@
 
 <!-- Title Tags -->
 <title itemprop="name">{{ .Title }} | {{ .Site.Title }}</title>
-<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
+<meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
+<meta name="application-name" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
+<meta property="og:site_name" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
 
 <!-- Description Tags -->
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}" />
