@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
 <!-- Title Tags -->
-<title itemprop="name">{{ .Title }} | {{ .Site.Title }}</title>
+<title itemprop="name">{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}</title>
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
 <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
 <meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} | {{ .Title }}{{ end }}" />
