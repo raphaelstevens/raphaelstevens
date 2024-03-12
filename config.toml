@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
 path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
 
 [params]
-  counter = "raphaelstevens"
+  counterdev = "raphaelstevens"
   # Metadata mostly used in document's head
   ogimage = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens"
