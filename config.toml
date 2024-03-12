@@ -49,8 +49,11 @@ disableHugoGeneratorInject = false
   category = "categories"
   series   = "series"
 
-[params]
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
 
+[params]
+  counter -"raphaelstevens"
   # Metadata mostly used in document's head
   ogimage = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens"
