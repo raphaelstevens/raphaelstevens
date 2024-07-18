@@ -160,16 +160,6 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
   #   alt      = "Portrait"
   #   maxWidth = "50px"
 
-  # Social icons
-	
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/collapsology"
-	
-  [[params.social]]
-    name = "email"
-    url  = "/fr/contact"
-
 
 [languages]
   [languages.fr]
@@ -207,6 +197,14 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
     url        = "contact/"
 	weight    = 5
 
+[[languages.fr.params.social]]
+  name = "twitter"
+  url = "https://twitter.com/collapsology"  
+
+[[languages.fr.params.social]]
+      name = "email"
+      url = "contact/"  
+
   [languages.en]
     disabled = false
     languageCode = "en-us"
@@ -242,5 +240,12 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
      url        = "contact/"
 	 weight    = 5
 
+[[languages.en.params.social]]
+  name = "twitter"
+  url = "https://twitter.com/collapsology"  
+
+[[languages.en.params.social]]
+      name = "email"
+      url = "contact"  
 
 
