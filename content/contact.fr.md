@@ -14,7 +14,7 @@ Merci pour vos retours, suggestions et opinions qui me permettent de progresser.
 
 ### Journalistes
 
-Je suis généralement disponible pour des interviews et des articles en lien direct avec les [thèmes](recherche.fr.md) que j'aborde. Je ne commente pas l'actualité immédiate. 
+Je suis généralement disponible pour des interviews et des articles en lien direct avec les [thèmes](/recherche) que j'aborde. Je ne commente pas l'actualité immédiate. 
 
 ### Organisateur·rice·s de conférences ou formations
 
@@ -24,7 +24,7 @@ Terrestre du Condroz, je limite habituellement mes déplacements à la Belgique 
 
 ### Chercheur·euse·s / Artistes 
 
-Je suis ouvert à des collaborations avec des scientifiques et des artistes dont les travaux font écho aux [thématiques](recherche.fr.md) que j'explore.
+Je suis ouvert à des collaborations avec des scientifiques et des artistes dont les travaux font écho aux [thématiques](/recherche) que j'explore.
 
 Concernant les projets de recherche, je suis particulièrement motivé par les démarches de recherche-action participative (RAP). Et, je partage volontiers mes connaissances sur la littérature scientifique si vous cherchez à étoffer vos articles, modèles ou scénarios. 
 

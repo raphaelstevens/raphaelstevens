@@ -14,7 +14,7 @@ Thank you for your feedback and suggestions. I personally read all received mess
 
 ### Journalists
 
-I am available for interviews and articles directly related to the [topics I cover](/recherche). Please note that I do not comment on breaking news.
+I am available for interviews and articles directly related to the [topics I cover](/en/recherche). Please note that I do not comment on breaking news.
 
 ### Event Organizers
 
@@ -24,7 +24,7 @@ As a resident of the Condroz region, I usually limit my travel to Belgium and No
 
 ### Researchers / Artists
 
-I'm open to collaborating with scientists and artists whose work aligns with my [research interests](/recherche). 
+I'm open to collaborating with scientists and artists whose work aligns with my [research interests](/en/recherche). 
 
 I'm particularly enthusiastic about transdisciplinary approaches and am happy to share my knowledge of the scientific literature.
 
