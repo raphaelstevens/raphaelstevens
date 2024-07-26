@@ -58,7 +58,7 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
   ogimage = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens"
   twitter = "@collapsology"
-  description = "Bio | Recherche | Artivisme | Publications | Contact"
+  description = "Essayiste // Prospectiviste | Bio | Recherche | Artivisme | Publications | Contact |"
   images = [""]
 
   dateform        = "Jan 2, 2006"
