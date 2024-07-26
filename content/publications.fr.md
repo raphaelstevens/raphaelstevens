@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 description: "Comment tout peut s'effondrer, Une autre fin du monde est possible, Petit traité de Résilience locale, Aux origines de la catastrophe"
+robots: "noindex, nofollow, noarchive"
 ---
 Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques), des [articles](#articles). 
 

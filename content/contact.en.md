@@ -2,6 +2,7 @@
 title: "Contact"
 description: "Contact"
 weight: "4"
+robots: "noindex, nofollow, noarchive"
 ---
 
 Hi :wave:

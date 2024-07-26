@@ -1,10 +1,11 @@
 ---
 title: "Artivism"
 description: "In times of uncertainty and disruption, it is more crucial than ever to tap into our creativity, emotions, and sensitivities."
+robots: "noindex, nofollow, noarchive"
 ---
-In times of uncertainty and disruption, it is more crucial than ever to tap into our creativity, emotions, and sensitivities. By forging meaningful connections with the more-than-human world around us, exploring the anxieties and aspirations that traverse humanity, and honing our intuition to detect subtle signals and emerging possibilities, the arts have the potential to precipitate a profound shift in perspective and stimulate our collective imagination.
+In our era of uncertainty and change, creativity, emotion, and sensitivity are more vital than ever. By deepening our connection to the world beyond humanity, exploring our shared anxieties and aspirations, and sharpening our intuition to perceive subtle signals and emerging possibilities, art can catalyze a profound shift in perspective and ignite our collective imagination.
 
-I endeavour to fulfill a bridging role at the nexus of science, art, and a sustainable transition, bringing together diverse viewpoints for joint reflection. My focus lies in exploring socio-ecological artivism through curating exhibitions. By artivism, I refer to creative mediums and initiatives that encourage active engagement, with the ultimate goal of transforming people's relationship with time and space, and motivating urgent action.
+I strive to bridge the realms of science, art, and sustainable transition, fostering dialogue among diverse viewpoints. My work centers on socio-ecological artivism through curated exhibitions. Artivism, as I define it, encompasses creative mediums and initiatives that inspire active engagement, aiming to transform our relationship with time and space while spurring urgent action.
 
 ### Exhibitions
 

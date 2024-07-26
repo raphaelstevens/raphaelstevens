@@ -1,6 +1,7 @@
 ---
 title: "Bio"
 description: "Essayiste // Prospectiviste"
+robots: "noindex, nofollow, noarchive"
 ---
 Essayiste depuis une dizaine d'années et chercheur-associé à l'[Institut Momentum](https://institutmomentum.org), je publie des [analyses prospectives](/recherche) sur les questions de transition, résilience et risques systémiques globaux dans des [livres](/publications) et des [articles](/publications) de vulgarisation notamment pour le magazine [Imagine Demain le Monde](https://www.imagine-magazine.com/). J'anime des conférences, formations et ateliers, notamment à l'[Institut Eco-Conseil](https://www.eco-conseil.be/). En parallèle, j’explore l’[artivisme](/artivisme) social-écologique à travers l’organisation d’expositions comme celle que j'ai conçue au [Palais des Beaux-Arts](https://www.bozar.be/fr/calendrier/tendencies-19) à Bruxelles ou à laquelle j'ai participé à Madrid pour la [Fundación Telefónica](https://normalfutu.re/uncategorized/grasias-the-good-collapse-exhibition/). 
 

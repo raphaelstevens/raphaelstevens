@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 description: "How everything can collapse, Another End of the world, Petit traité de résilience locale, Aux origines de la catastrophe"
+robots: "noindex, nofollow, noarchive"
 ---
 I publish my analyses in [books](#books), [columns](#columns), [articles](#articles).
 

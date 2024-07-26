@@ -2,6 +2,7 @@
 title: "Contact"
 description: "Me contacter"
 weight: "4"
+robots: "noindex, nofollow, noarchive"
 ---
 
 Bonjour :wave: 
