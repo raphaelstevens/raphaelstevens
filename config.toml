@@ -56,9 +56,9 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
   counterdev = "raphaelstevens"
   # Metadata mostly used in document's head
   ogimage = "/img/background-rs.jpg"
-  sitename = "Raphaël Stevens"
+  sitename = "Raphaël Stevens | Essayiste // Prospectiviste"
   twitter = "@collapsology"
-  description = "Essayiste // Prospectiviste | Bio | Recherche | Artivisme | Publications | Contact |"
+  description = "Bio | Recherche | Artivisme | Publications | Contact "
   images = [""]
 
   dateform        = "Jan 2, 2006"

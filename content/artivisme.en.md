@@ -3,13 +3,13 @@ title: "Artivism"
 description: "In times of uncertainty and disruption, it is more crucial than ever to tap into our creativity, emotions, and sensitivities."
 robots: "noindex, nofollow, noarchive"
 ---
-In our era of uncertainty and change, creativity, emotion, and sensitivity are more vital than ever. By deepening our connection to the world beyond humanity, exploring our shared anxieties and aspirations, and sharpening our intuition to perceive subtle signals and emerging possibilities, art can catalyze a profound shift in perspective and ignite our collective imagination.
+In our era of uncertainty and change, creativity, emotion, and sensitivity are more vital than ever. By deepening our connection to the more-than-human world, exploring our shared anxieties and aspirations, and sharpening our intuition to perceive subtle signals and emerging possibilities, art can catalyze a profound shift in perspective and ignite our collective imagination.
 
 I strive to bridge the realms of science, art, and sustainable transition, fostering dialogue among diverse viewpoints. My work centers on socio-ecological artivism through curated exhibitions. Artivism, as I define it, encompasses creative mediums and initiatives that inspire active engagement, aiming to transform our relationship with time and space while spurring urgent action.
 
 ### Exhibitions
 
-***[Les unes de l'urgence, un demi-siècle de couvertures marquantes](http:s://)***, [in prep, 2024]. 
+***[Les unes de l'urgence, un demi-siècle de couvertures marquantes](https://)***, [in prep, 2024]. 
 
 ***[GRACIAS, The Good Collapse](https://normalfutu.re/uncategorized/grasias-the-good-collapse-exhibition/)***, Espacio Fundación Telefónica, 3 nov - 17 apr, Madrid, 2021.  
 > As part of [La Gran Imaginación. Historias del Futuro]([https://www.fundaciontelefonica.com/exposiciones/la-gran-imaginacion-historias-del-futuro/](https://www.fundaciontelefonica.com/exposiciones/la-gran-imaginacion-historias-del-futuro/)) by [Jorge Camacho]([https://www.iftf.org/people/jorge-camacho-rojas/](https://www.iftf.org/people/jorge-camacho-rojas/)). Collaboration with Régis and Cédric of studio [N O R M A L S]([https://normalfutu.re/](https://normalfutu.re/)). [GRACIAS, The Good Collapse]([https://normalfutu.re/studio/grasias-the-good-collapse-digital-catalogue/](https://normalfutu.re/studio/grasias-the-good-collapse-digital-catalogue/)) tells the story of a nation ready to sacrifice itself for the common good by providing all means for citizens to ensure their survival and (re)build society.
