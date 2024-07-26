@@ -3,12 +3,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <!-- Title Tags -->
-<title>{{ if .IsHome }}{{ .Site.Params.sitename }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Params.sitename }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Params.sitename }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Params.sitename }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta name="application-name" content="{{ if .IsHome }}{{ .Site.Params.sitename }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta property="og:site_name" content="{{ .Site.Params.sitename }}">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="application-name" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
 
 <!-- Description Tags -->
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
