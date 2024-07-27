@@ -84,3 +84,41 @@
   src: url("fonts/OpenSans-BoldItalic.woff2") format("woff2"),
        url("fonts/OpenSans-BoldItalic.woff") format("woff");
 }
+
+@font-face {
+  font-family: "Lora";
+  font-style:  regular;
+  font-display: auto;
+  font-weight: 400;
+  src: url("fonts/lora-regular-webfont.woff2") format("woff2"),
+       url("fonts/lora-regular-webfont.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("fonts/lora-italic-webfont.woff2") format("woff2"),
+       url("fonts/lora-italic-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-style:  regular;
+  font-display: auto;
+  font-weight: 800;
+  src: url("fonts/lora-regular-webfont.woff2") format("woff2"),
+       url("fonts/lora-regular-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 800;
+  src: url("fonts/lora-italic-webfont.woff2") format("woff2"),
+       url("fonts/lora-italic-webfont.woff") format("woff");
+}
+
+
