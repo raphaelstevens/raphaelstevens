@@ -4,20 +4,6 @@
         {{ range .Site.Menus.main -}}
             <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
         {{- end }}
-        {{- if .Site.Params.EnableGlobalLanguageMenu }}
-        <div class="submenu">
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">{{ .Language.LanguageName }}&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="12px" height="12px" viewBox="0 0 12 12" fill="currentColor" stroke="currentColor"><path d="m10.854 4.354 -4.5 4.5a0.5 0.5 0 0 1 -0.707 0l-4.5 -4.5a0.5 0.5 0 1 1 0.707 -0.707L6 7.793l4.146 -4.146a0.5 0.5 0 1 1 0.707 0.707Z"/></svg>
-
-                <div class="dropdown-content">
-                    {{ if .Site.IsMultiLingual }}
-                        {{ range $.Translations }}
-                            <a title="{{ .Language }}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-                        {{ end }} 
-                    {{ end }}
-                </div>
-            </li>
-        </div>
-        {{- end }}
+       
     </ul>
 </nav>

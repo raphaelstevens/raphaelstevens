@@ -1,0 +1,63 @@
+
+<header class="header">
+    <span class="header__inner">
+        {{ partial "logo.html" . }}
+        <span class="header__right">
+            {{ if len .Site.Menus }}
+                {{ partial "menu.html" . }}
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            {{ end }}
+            {{- if .Site.Params.EnableLanguageToggle }}
+                <span class="language-toggle not-selectable" title="{{ if eq .Lang "fr" }}Switch to English{{ else }}Passer en Français{{ end }}">
+                    <svg width="40" height="20" viewBox="0 0 40 20" xmlns="http://www.w3.org/2000/svg">
+                        <rect x="1" y="1" width="38" height="18" rx="9" ry="9" fill="none" stroke="currentColor" stroke-width="1"/>
+                        <text x="{{ if eq .Lang "fr" }}13{{ else }}27{{ end }}" y="11" font-family="Arial, sans-serif" font-size="8" fill="currentColor" text-anchor="middle" dominant-baseline="middle">{{ if eq .Lang "fr" }}EN{{ else }}FR{{ end }}</text>
+                        <circle cx="{{ if eq .Lang "fr" }}30{{ else }}10{{ end }}" cy="10" r="7" fill="currentColor"/>
+                    </svg>
+                </span>
+            {{- end}}
+            {{- if .Site.Params.EnableThemeToggle }}
+                <span class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
+            {{- end}}
+        </span>
+    </span>
+</header>
+<style>
+    .language-toggle {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        margin: 0 10px;
+    }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const languageToggle = document.querySelector('.language-toggle');
+        if (languageToggle) {
+            languageToggle.addEventListener('click', function() {
+                const currentLang = document.documentElement.lang || 'fr'; // Default to French if not set
+                const newLang = currentLang === 'fr' ? 'en' : 'fr';
+                
+                // Get the current path
+                let path = window.location.pathname;
+                
+                // Handle language switch based on your URL structure
+                if (currentLang === 'fr') {
+                    // Switching from French to English
+                    path = '/en' + path;
+                } else {
+                    // Switching from English to French
+                    path = path.replace(/^\/en/, '');
+                }
+                
+                // Navigate to the new URL
+                window.location.href = path;
+            });
+        }
+    });
+</script>
