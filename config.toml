@@ -54,7 +54,7 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
 
 [params]
   EnableLanguageToggle = true
-  counterdev = "raphaelstevens"
+  counterdev = "da44b53c-3920-4a97-bf68-2c45cfa2defb"
   ogimage = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens "
   twitter = "@collapsology"
@@ -85,7 +85,7 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   #
   customCSS = []
-  customJS  = ["js/language-toggle.js"]
+  customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
