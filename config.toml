@@ -55,7 +55,6 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
 [params]
   EnableLanguageToggle = true
   counterdev = "raphaelstevens"
-  # Metadata mostly used in document's head
   ogimage = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens "
   twitter = "@collapsology"
@@ -67,60 +66,31 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
  
-  # Set a background for the homepage
   # backgroundImage = "/img/background-rs.jpg"
 
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
   disableReadOtherPosts = false
 
-  # Enable theme toggle
-  #
-  # This options enables the theme toggle for the theme.
-  # Per default, this option is off.
-  # The theme is respecting the prefers-color-scheme of the operating systeme.
-  # With this option on, the page user is able to set the scheme he wants.
   enableThemeToggle = true
-
-  # Set a default theme
-  #
-  # This option allows you to set a default theme (light or dark) for the website.
-  # If this is not set, the browser will pick a theme based on OS settings
-  # If this is set to "dark" or "light", the site will be in that theme unless
-  # enableThemeToggle is on, and the user has changed the theme.
-  #
   # defaultTheme = "dark"
 
-  # Sharing buttons
-  #
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
   enableSharingButtons = true
 
-  # Global language menu
-  #
-  # Enables the global language menu.
-  #
   enableGlobalLanguageMenu = true
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   #
   customCSS = []
-  customJS  = []
+  customJS  = ["js/language-toggle.js"]
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
   justifyContent = false  # Set "text-align: justify" to .post-content.
 
-  # Custom footer 
-  # If you want, you can easily override the default footer with your own content. 
-  #
   [params.footer]
     trademark = "2024"
     rss = false
@@ -130,8 +100,6 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
    topText = ['''Made <a href="https://github.com/raphaelstevens/raphaelstevens">with</a>&nbsp; <svg class="heart-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" style="fill: red; vertical-align: middle; position: relative; top: -0.1em;"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>''']
     bottomText = []
 
-  # Colors for favicons
-  #
   [params.favicon.color]
     mask = "#1b1c1d"
     msapplication = "#1b1c1d"
@@ -143,19 +111,9 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
     logoHomeLink = "/"
     logoCursorColor    = "#86C885"
 
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
   # [params.commento]
   #   url = ""
 
-  # Uncomment this if you want a portrait on your start page
-  #
   # [params.portrait]
   #   path     = "/img/image.jpg"
   #   alt      = "Portrait"
