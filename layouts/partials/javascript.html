@@ -1,22 +1,39 @@
 {{ $main := resources.Get "js/main.js" }}
 {{ $menu := resources.Get "js/menu.js" }}
 {{ $prism := resources.Get "js/prism.js" }}
-{{ $languageToggle := resources.Get "js/language-toggle.js" }}
-{{ $secureJS := slice $main $menu $prism $languageToggle | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
-<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" defer></script>
+{{ $secureJS := slice $main $menu $prism | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
 {{ range $val := $.Site.Params.customJS }}
     {{ if gt (len $val) 0 }}
-        {{ $customJS := resources.Get $val | minify | fingerprint }}
-        <script src="{{ $customJS.RelPermalink }}" integrity="{{ $customJS.Data.Integrity }}" defer></script>
+        <script src="{{ $val }}"></script>
     {{ end }}
 {{ end }}
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const languageToggle = document.querySelector('.language-toggle');
+    if (languageToggle) {
+        languageToggle.addEventListener('click', function(event) {
+            event.preventDefault();
+
+            const currentLang = document.documentElement.lang || 'fr';
+            const newLang = currentLang === 'fr' ? 'en' : 'fr';
+            
+            let path = window.location.pathname;
+            path = currentLang === 'fr' ? '/en' + path : path.replace(/^\/en/, '');
+
+            // Immediate redirect
+            window.location.href = path;
+        });
+    }
+});
+</script>
+
+
 {{ if .Page.Store.Get "hasMermaid" }}
-    {{ $mermaid := resources.Get "js/mermaid.min.js" | fingerprint }}
-    <script type="module" src="{{ $mermaid.RelPermalink }}" integrity="{{ $mermaid.Data.Integrity }}" defer></script>
-    <script type="module">
-        import mermaid from "{{ $mermaid.RelPermalink }}";
+<script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs";
     const settings = localStorage.getItem("theme") === "dark" ?
         {
             startOnLoad: true,
