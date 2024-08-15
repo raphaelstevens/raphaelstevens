@@ -4,6 +4,10 @@ description: "The challenges we face today, unprecedented in scale, complexity a
 robots: "noindex, nofollow, noarchive"
 ---
 
+Our world is undergoing profound and multifaceted transformations. These changes intertwine and amplify each other, creating an unprecedented polycrisis that tests the resilience of our social structures and the integrity of ecosystems. In this critical context, the scientific community emphasizes the urgency of deep reflection on our collective future and the need to preserve Earth's habitability.
+
+My work addresses this challenge, focusing on several complementary and forward-looking areas: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). The objective is twofold: to better understand the vulnerabilities and critical thresholds threatening our societies and the biosphere, and to identify the conditions and levers of transformation that could enhance our anticipation and adaptation capabilities.
+
 Today's challenges are unprecedented in their magnitude, interconnectedness, and potentially catastrophic nature. They defy compartmentalized analytical frameworks and require the mobilization of diverse perspectives. 
 
 With this in mind, my work focuses on several interrelated, forward-looking themes: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). The aim is to better understand the vulnerabilities and tipping points that threaten societies and the biosphere, as well as the conditions and levers for transformation that could enhance our ability to anticipate and adapt.
@@ -12,11 +16,13 @@ With this in mind, my work focuses on several interrelated, forward-looking them
 
 > *Transdisciplinary study of collapse risks and dynamics*
 
-The accelerating decline of biodiversity, the multiplication of extreme weather events, the intensification of geopolitical and resource tensions, rising inequality, persisting armed conflicts, and the resurgence of epidemics – The interplay of these dynamics is destabilizing societies and the biosphere. Some irreversible social and environmental collapses are already underway, while others loom on the horizon. Researchers across disciplines now outline scenarios where our civilization – or even our species' existence – is at risk. Responsible foresight must confront these challenges head-on.
+In the face of current and future upheavals, new methodological approaches and analytical tools are emerging. For instance, the study of compound risks and wicked problems offers analytical frameworks to explore the polymorphic nature of disturbances, their interconnections, and potential impacts.
 
-The complexity of these interconnected challenges stems from critical tipping points and potentially irreversible feedback loops. Our interconnected systems face risks of cascading or synchronous failures, set against a backdrop of radical uncertainty. Scientific literature highlights the polymorphic nature of these wicked problems and the confluence of multiple risk factors (compound risks). It is essential to adopt systems thinking to grasp the thresholds, nonlinearities, and interdependencies at play. By doing so, we can gain a deeper comprehension of this complex risk landscape, enabling us to envision responses commensurate to the scale of the looming challenges [collapsology].
+A crucial aspect of current research in academia concerns the analysis of cascading or synchronous failures. Our interconnected systems are vulnerable to potentially devastating domino effects, where the disruption of one element can trigger a chain reaction affecting the whole. Scenarios envisioned in scientific literature cover a wide spectrum, ranging from localized or ecosystem collapses to global breakdowns, including the hypothesis of an existential threat to our species. Far from being mere speculations, these scenarios, even the most extreme ones, are essential objects of study for rigorous foresight.
 
-It's equally crucial to examine the role of emotions and spirituality in this debate, as well as to seek new ways of finding meaning and renew our relationship with the more-than-human world, as we navigate these storms [collapsosophy]. Political issues must also be addressed to determine what needs to be done, how to do it, and with whom [collapsopraxis].
+The goal is to adopt systems thinking to identify tipping points and feedback dynamics (positive and negative, social and ecological, present and future, local and global, etc.) that shape the evolution of these systems.
+
+A deep understanding of these phenomena [collapso-logy] is essential to envision democratic, solidary, just, and sustainable responses [collapso-praxis]. It is also crucial to question the role of emotions and spirituality in this debate, to seek to rediscover meaning and renew our relationship with the more-than-human world to weather the storms [collapso-sophy].
 
 I share my bibliography on these topics via [collapsologie.info](https://www.collapsologie.info/en/science).
 
