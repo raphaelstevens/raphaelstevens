@@ -13,7 +13,7 @@ L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seu
 ### Collapsologie
 > *Etude transdisciplinaire des risques et dynamiques d'effondrement*
 
-Face aux bouleversements actuels et à venir, de nouvelles approches méthodologiques  et outils d'analyse émergent. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
+Face aux bouleversements actuels et à venir, de nouvelles approches méthodologiques et outils d'analyse émergent. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
 
 Un aspect crucial des recherches récentes dans le domaine concerne l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*). Nos systèmes interconnectés sont vulnérables à des effets domino potentiellement dévastateurs, où la perturbation d'un élément peut entraîner une réaction en chaîne affectant l'ensemble. Les scénarios envisagés dans la littérature scientifique couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des ruptures globales, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
 

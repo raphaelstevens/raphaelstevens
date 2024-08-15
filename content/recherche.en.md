@@ -1,16 +1,13 @@
 ---
 title: "Research"
-description: "The challenges we face today, unprecedented in scale, complexity and potentially catastrophic risks, defy compartmentalised analytical frameworks and require mobilising diverse perspectives."
+description: "Understand the vulnerabilities and critical thresholds. Identify the conditions and levers of transformation."
 robots: "noindex, nofollow, noarchive"
 ---
-
 Our world is undergoing profound and multifaceted transformations. These changes intertwine and amplify each other, creating an unprecedented polycrisis that tests the resilience of our social structures and the integrity of ecosystems. In this critical context, the scientific community emphasizes the urgency of deep reflection on our collective future and the need to preserve Earth's habitability.
 
-My work addresses this challenge, focusing on several complementary and forward-looking areas: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). The objective is twofold: to better understand the vulnerabilities and critical thresholds threatening our societies and the biosphere, and to identify the conditions and levers of transformation that could enhance our anticipation and adaptation capabilities.
+With this in mind, my work focuses on several complementary and forward-looking areas: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). 
 
-Today's challenges are unprecedented in their magnitude, interconnectedness, and potentially catastrophic nature. They defy compartmentalized analytical frameworks and require the mobilization of diverse perspectives. 
-
-With this in mind, my work focuses on several interrelated, forward-looking themes: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). The aim is to better understand the vulnerabilities and tipping points that threaten societies and the biosphere, as well as the conditions and levers for transformation that could enhance our ability to anticipate and adapt.
+The objective is twofold: to better understand the vulnerabilities and critical thresholds threatening our societies and the biosphere, and to identify the conditions and levers of transformation that could enhance our anticipation and adaptation capabilities.
 
 ### Collapsology
 
