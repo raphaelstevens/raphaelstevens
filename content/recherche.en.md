@@ -15,7 +15,9 @@ The objective is twofold: to better understand the vulnerabilities and critical 
 
 In the face of current and future upheavals, new methodological approaches and analytical tools are emerging. For instance, the study of compound risks and wicked problems offers analytical frameworks to explore the polymorphic nature of disturbances, their interconnections, and potential impacts.
 
-A crucial aspect of current research in academia concerns the analysis of cascading or synchronous failures. Our interconnected systems are vulnerable to potentially devastating domino effects, where the disruption of one element can trigger a chain reaction affecting the whole. Scenarios envisioned in scientific literature cover a wide spectrum, ranging from localized or ecosystem collapses to global breakdowns, including the hypothesis of an existential threat to our species. Far from being mere speculations, these scenarios, even the most extreme ones, are essential objects of study for rigorous foresight.
+A crucial aspect of current research in academia concerns the analysis of cascading or synchronous failures. Our interconnected systems are vulnerable to potentially devastating domino effects, where the disruption of one element can trigger a chain reaction affecting the whole. 
+
+Scenarios envisioned in scientific literature cover a wide spectrum, ranging from localized or ecosystem collapses to global breakdowns, including the hypothesis of an existential threat to our species. Far from being mere speculations, these scenarios, even the most extreme ones, are essential objects of study for rigorous foresight.
 
 The goal is to adopt systems thinking to identify tipping points and feedback dynamics (positive and negative, social and ecological, present and future, local and global, etc.) that shape the evolution of these systems.
 

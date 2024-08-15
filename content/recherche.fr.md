@@ -4,7 +4,9 @@ description: "Mieux comprendre les vulnérabilités et seuils critiques. Stimule
 robots: "noindex, nofollow, noarchive"
 ---
 
-Notre monde traverse une période de transformations profondes et multiples. Ces mutations s'entremêlent et s'amplifient mutuellement, créant une polycrise sans précédent qui met à l'épreuve la résilience de nos structures sociales et l'intégrité des écosystèmes. Dans ce contexte critique, la communauté scientifique souligne l'urgence d'une réflexion approfondie sur notre avenir collectif et la nécessité de préserver l'habitabilité de la Terre.
+Notre monde traverse une période de transformations profondes et multiples. Ces mutations s'entremêlent et s'amplifient mutuellement, créant une polycrise sans précédent qui met à l'épreuve la résilience de nos structures sociales et l'intégrité des écosystèmes. 
+
+Dans ce contexte critique, la communauté scientifique souligne l'urgence d'une réflexion approfondie sur notre avenir collectif et la nécessité de préserver l'habitabilité de la Terre.
 
 Mes travaux s'inscrivent dans cette démarche et portent sur plusieurs axes complémentaires et prospectifs : [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). 
 
@@ -15,9 +17,11 @@ L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seu
 
 Face aux bouleversements actuels et à venir, de nouvelles approches méthodologiques et outils d'analyse émergent. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
 
-Un aspect crucial des recherches récentes dans le domaine concerne l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*). Nos systèmes interconnectés sont vulnérables à des effets domino potentiellement dévastateurs, où la perturbation d'un élément peut entraîner une réaction en chaîne affectant l'ensemble. Les scénarios envisagés dans la littérature scientifique couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des ruptures globales, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
+Un aspect crucial des recherches récentes dans le domaine concerne l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*). Nos systèmes interconnectés sont vulnérables à des effets domino potentiellement dévastateurs, où la perturbation d'un élément peut entraîner une réaction en chaîne affectant l'ensemble. 
 
-Il s'agit d'adopter une pensée systémique pour identifier les points de bascule et les dynamiques de rétroaction (positives et négatives, sociales et écologiques, présentes et futures, locales et globales, etc.) qui façonnent l'évolution de ces systèmes. 
+Les scénarios envisagés dans la littérature scientifique couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des ruptures globales, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
+
+Il s'agit d'adopter une pensée systémique pour identifier les points de bascule et les dynamiques de rétroaction (*positives* et *négatives, sociales* et *écologiques, présentes* et *futures, locales* et *globales*, etc.) qui façonnent l'évolution de ces systèmes. 
 
 Une compréhension approfondie de ces phénomènes [collapso-*logie*] est indispensable pour envisager des réponses démocratiques, solidaires, justes et soutenables [collapso-*praxis*]. Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapso-*sophie*]. 
 
