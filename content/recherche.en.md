@@ -3,7 +3,9 @@ title: "Research"
 description: "Understand the vulnerabilities and critical thresholds. Identify the conditions and levers of transformation."
 robots: "noindex, nofollow, noarchive"
 ---
-Our world is undergoing profound and multifaceted transformations. These changes intertwine and amplify each other, creating an unprecedented polycrisis that tests the resilience of our social structures and the integrity of ecosystems. In this critical context, the scientific community emphasizes the urgency of deep reflection on our collective future and the need to preserve Earth's habitability.
+Our world is undergoing profound and multifaceted transformations. These changes intertwine and amplify each other, creating an unprecedented polycrisis that tests the resilience of our social structures and the integrity of ecosystems. 
+
+In this critical context, the scientific community emphasizes the urgency of deep reflection on our collective future and the need to preserve Earth's habitability.
 
 With this in mind, my work focuses on several complementary and forward-looking areas: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). 
 
