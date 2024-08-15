@@ -13,13 +13,13 @@ L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seu
 ### Collapsologie
 > *Etude transdisciplinaire des risques et dynamiques d'effondrement*
 
-Face à cette situation critique, de nouvelles approches transdisciplinaires émergent pour appréhender les dynamiques des bouleversements actuels et à venir. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
+Face à la situation critique, de nouvelles approches transdisciplinaires émergent pour appréhender les dynamiques des bouleversements actuels et à venir. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
 
 Un aspect crucial des recherches actuelles concerne l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*). Nos systèmes interconnectés sont vulnérables à des effets domino potentiellement dévastateurs, où la perturbation d'un élément peut entraîner une réaction en chaîne affectant l'ensemble.
 
 Les scénarios envisagés dans la littérature scientifique couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des ruptures globales, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
 
-Il s'agit d'adopter une pensée systémique pour identifier les points de bascule et les dynamiques de rétroaction (positives et négatives, sociales et écologiques, présentes et futures, locales et globales, etc.) qui façonnent l'évolution de ces systèmes. Une compréhension approfondie [collapso-*logie*] de ces mécanismes permettrait d'envisager des réponses démocratiques, solidaires, justes et soutenables [collapso-*praxis*].  
+Il s'agit d'adopter une pensée systémique pour identifier les points de bascule et les dynamiques de rétroaction (positives et négatives, sociales et écologiques, présentes et futures, locales et globales, etc.) qui façonnent l'évolution de ces systèmes. Une compréhension approfondie de ces phénomènes [collapso-*logie*] est indispensable pour envisager des réponses démocratiques, solidaires, justes et soutenables [collapso-*praxis*].  
 
 Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapso-*sophie*]. 
 
