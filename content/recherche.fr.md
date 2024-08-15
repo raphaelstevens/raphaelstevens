@@ -1,18 +1,25 @@
 ---
 title: "Recherche"
-description: "Les problématiques actuelles, inédites par leur ampleur, leur intrication et leur caractère potentiellement catastrophique, échappent aux grilles d'analyse cloisonnées et requièrent de mobiliser des regards croisés."
+description: "Mieux comprendre les vulnérabilités et seuils critiques. Stimuler nos capacités d'anticipation et d'adaptation."
 robots: "noindex, nofollow, noarchive"
 ---
-Les problématiques actuelles, inédites par leur ampleur, leur intrication et leur caractère potentiellement catastrophique, échappent aux grilles d'analyse cloisonnées et requièrent de mobiliser des regards croisés.
 
-Dans cette optique, mes travaux portent sur plusieurs axes inter-reliés et prospectifs :  [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). L'objectif est de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi que les conditions et leviers de transformation qui permettraient d'accroître nos capacités d'anticipation et d'adaptation.
+Notre monde traverse une période de transformations profondes et multiples. Ces mutations s'entremêlent et s'amplifient mutuellement, créant une polycrise sans précédent qui met à l'épreuve la résilience de nos structures sociales et l'intégrité des écosystèmes. Dans ce contexte, la communauté scientifique souligne l'urgence d'une réflexion approfondie sur notre avenir collectif et la nécessité de préserver l'habitabilité de la Terre.
+
+Mes travaux s'inscrivent dans cette démarche et portent sur plusieurs axes complémentaires et prospectifs : [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). 
+
+L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi qu'identifier les conditions et leviers de transformation qui permettraient de stimuler nos capacités d'anticipation et d'adaptation.
 
 ### Collapsologie
 > *Etude transdisciplinaire des risques et phénomènes d'effondrement*
 
-Le déclin de la biodiversité, la multiplication des événements climatiques extrêmes, l’exacerbation des tensions géopolitiques et énergétiques, la montée des inégalités, la persistence des conflits armés, la recrudescence des épidémies... L’interaction de ces dynamiques déstabilise l’avenir de l’humanité et de la biosphère. Des effondrements sociaux et environnementaux sont déjà actés, tandis que d’autres s’annoncent probables. Certains chercheurs envisagent désormais des scénarios où notre espèce serait, parmi d'autres, menacée de disparition. Une prospective sérieuse ne peut aujourd'hui ignorer ces sujets.
+Face à cette situation critique, de nouvelles approches transdisciplinaires émergent pour appréhender les dynamiques des bouleversements actuels et à venir. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
 
-La complexité de ces défis tient à l'existence de points de bascule critiques et de phénomènes potentiellement irréversibles. Nos systèmes interconnectés sont confrontés à des risques de défaillances en cascade ou simultanées (cascading or synchronous failures), dans un contexte d'incertitude radicale. La littérature scientifique met en évidence la nature polymorphe de ces «&nbsp;problèmes pernicieux&nbsp;» (wicked problems), ainsi que la confluence de multiples facteurs de risque (compound risks). Il est ainsi essentiel d'adopter une pensée systémique pour appréhender les seuils et interdépendances en jeu. Une meilleure compréhension des menaces permettra d'envisager des réponses à la hauteur des défis [collapsologie].
+Un aspect crucial des recherches actuelles concerne l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*). Nos systèmes interconnectés sont vulnérables à des effets domino potentiellement dévastateurs, où la perturbation d'un élément peut entraîner une réaction en chaîne affectant l'ensemble.
+
+Les scénarios envisagés couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des bouleversements globaux, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
+
+Il s'agit d'adopter une pensée systémique pour identifier les points de bascule critiques et les dynamiques de rétroaction qui façonnent l'évolution de ces systèmes. Une compréhension approfondie de ces mécanismes permettra d'envisager des réponses à la hauteur des enjeux [collapsologie].
 
 Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapsosophie]. Les enjeux politiques doivent aussi être abordés pour déterminer ce qu'il faut faire, comment le faire et avec qui le faire [collapsopraxis].
 
