@@ -11,17 +11,17 @@ Mes travaux s'inscrivent dans cette démarche et portent sur plusieurs axes comp
 L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi qu'identifier les conditions et leviers de transformation qui permettraient de stimuler nos capacités d'anticipation et d'adaptation.
 
 ### Collapsologie
-> *Etude transdisciplinaire des risques et phénomènes d'effondrement*
+> *Etude transdisciplinaire des risques et dynamiques d'effondrement*
 
 Face à cette situation critique, de nouvelles approches transdisciplinaires émergent pour appréhender les dynamiques des bouleversements actuels et à venir. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
 
 Un aspect crucial des recherches actuelles concerne l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*). Nos systèmes interconnectés sont vulnérables à des effets domino potentiellement dévastateurs, où la perturbation d'un élément peut entraîner une réaction en chaîne affectant l'ensemble.
 
-Les scénarios envisagés couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des bouleversements globaux, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
+Les scénarios envisagés dans la littérature scientifique couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des ruptures globales, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
 
-Il s'agit d'adopter une pensée systémique pour identifier les points de bascule critiques et les dynamiques de rétroaction qui façonnent l'évolution de ces systèmes. Une compréhension approfondie de ces mécanismes permettra d'envisager des réponses à la hauteur des enjeux [collapsologie].
+Il s'agit d'adopter une pensée systémique pour identifier les points de bascule et les dynamiques de rétroaction (positifs et négatifs, sociaux et écologiques, présents et futurs, ... ) qui façonnent l'évolution de ces systèmes. Une compréhension approfondie [collapso-*logie*] de ces mécanismes permettrait d'envisager des réponses démocratiques, solidaires, justes et soutenables [collapso-*praxis*].  
 
-Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapsosophie]. Les enjeux politiques doivent aussi être abordés pour déterminer ce qu'il faut faire, comment le faire et avec qui le faire [collapsopraxis].
+Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapso-*sophie*]. 
 
 Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets.
 
