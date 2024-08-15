@@ -4,7 +4,7 @@ description: "Mieux comprendre les vulnérabilités et seuils critiques. Stimule
 robots: "noindex, nofollow, noarchive"
 ---
 
-Notre monde traverse une période de transformations profondes et multiples. Ces mutations s'entremêlent et s'amplifient mutuellement, créant une polycrise sans précédent qui met à l'épreuve la résilience de nos structures sociales et l'intégrité des écosystèmes. 
+Notre monde traverse une période de transformations profondes et multiples. Ces mutations s'entremêlent et s'amplifient mutuellement, créant une "polycrise" sans précédent qui met à l'épreuve la résilience de nos structures sociales et l'intégrité des écosystèmes. 
 
 Dans ce contexte critique, la communauté scientifique souligne l'urgence d'une réflexion approfondie sur notre avenir collectif et la nécessité de préserver l'habitabilité de la Terre.
 
