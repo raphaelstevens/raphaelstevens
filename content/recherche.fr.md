@@ -10,7 +10,7 @@ Dans ce contexte critique, la communauté scientifique souligne l'urgence d'une 
 
 Mes travaux s'inscrivent dans cette démarche et portent sur plusieurs axes complémentaires et prospectifs : [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). 
 
-L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi qu'identifier les conditions et leviers de transformation qui permettraient de stimuler nos capacités d'anticipation et d'adaptation.
+L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi qu'identifier les conditions et leviers de transformation permettant de stimuler nos capacités d'anticipation et d'adaptation.
 
 ### Collapsologie
 > *Etude transdisciplinaire des risques et dynamiques d'effondrement*
@@ -48,6 +48,8 @@ Depuis près de quatre siècles, nous cultivons la pensée rationnelle et analyt
 ### Science-post-normale
 > *Approche scientifique adaptée à la complexité des enjeux du XXIe siècle*
 
-La science « post-normale » constitue le cadre général dans lequel s’inscrit ma démarche. Face à la complexité des défis contemporains, elle promeut des approches résolument transdisciplinaires et ouvertes sur la société. 
+La science « post-normale » constitue le cadre général dans lequel s’inscrit ma démarche. Face à la complexité des défis contemporains, elle promeut des approches résolument transdisciplinaires et ouvertes sur la société, comme par exemple, la Recherche Action Participative (RAP).
 
-Ce concept a émergé dans les années 1990 pour dépasser les limites des approches scientifiques conventionnelles sur des problèmes caractérisés par de fortes incertitudes et une pluralité de visions du monde. Dans cette perspective, le processus scientifique intègre les regards de différentes disciplines sur les problématiques mais aussi ceux des experts, des décideurs et de la société civile, en valorisant les savoirs traditionnels et les points de vue des différentes cultures.
+Ce concept a émergé dans les années 1990 pour dépasser les limites des approches scientifiques conventionnelles sur des problèmes caractérisés par de fortes incertitudes et une pluralité de visions du monde. 
+
+Dans cette perspective, le processus scientifique intègre les regards de différentes disciplines sur les problématiques mais aussi ceux des experts, des décideurs et de la société civile, en valorisant les savoirs traditionnels et les points de vue des différentes cultures.

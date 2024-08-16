@@ -54,6 +54,7 @@ From this perspective, intuitive thought, its role in group dynamics, and method
 > *A scientific approach adapted to the complexity of 21st century challenges*
 
 Post-normal science provides the overarching framework for my approach. In the face of today's complex challenges, it advocates for transdisciplinary and socially engaged methodologies, such as participatory action research.
+
 This concept emerged in the 1990s as a response to the limitations of conventional scientific approaches when dealing with problems characterized by deep uncertainty and a plurality of worldviews. 
 
 From this perspective, the scientific process expands to include not only the views of scientists but also those of experts, decision-makers, and civil society. It values traditional knowledge and diverse cultural perspectives in governing contemporary risks.
