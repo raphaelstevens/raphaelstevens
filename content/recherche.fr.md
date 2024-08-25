@@ -26,7 +26,6 @@ Il s'agit d'adopter une pensée systémique pour identifier les points de bascul
 Une compréhension approfondie de ces phénomènes [collapso-*logie*] est indispensable pour envisager des réponses démocratiques, solidaires, justes et soutenables [collapso-*praxis*]. Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapso-*sophie*]. 
 
 Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets.
-
 ## Résilience
 > *Capacité à encaisser les chocs et à se transformer*
 
