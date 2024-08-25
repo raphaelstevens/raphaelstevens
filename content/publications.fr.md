@@ -5,7 +5,7 @@ robots: "noindex, nofollow, noarchive"
 ---
 Je publie mes analyses dans des [livres](#livres), des [chroniques](#chroniques), des [articles](#articles). 
 
-### Livres
+## Livres
 
 ***[Comment tout peut s'effondrer](https://www.seuil.com/ouvrage/comment-tout-peut-s-effondrer-pablo-servigne/9782021223316)***, 2015.  
 Avis sur [Babelio](https://www.babelio.com/livres/Servigne-Comment-tout-peut-seffondrer/713682), [AMZN](https://www.amazon.fr/Comment-seffondrer-collapsologie-g%C3%A9n%C3%A9rations-pr%C3%A9sentes/dp/2021223310/), & [Presse](#presse).  

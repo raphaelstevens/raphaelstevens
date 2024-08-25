@@ -12,7 +12,7 @@ Mes travaux s'inscrivent dans cette démarche et portent sur plusieurs axes comp
 
 L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi qu'identifier les conditions et leviers de transformation permettant de stimuler nos capacités d'anticipation et d'adaptation.
 
-### Collapsologie
+## Collapsologie
 > *Etude transdisciplinaire des risques et dynamiques d'effondrement*
 
 Face aux bouleversements actuels et à venir, de nouvelles approches méthodologiques et outils d'analyse émergent. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
@@ -27,7 +27,7 @@ Une compréhension approfondie de ces phénomènes [collapso-*logie*] est indisp
 
 Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets.
 
-### Résilience
+## Résilience
 > *Capacité à encaisser les chocs et à se transformer*
 
 Lorsque des catastrophes frappent un territoire, toutes les communautés ne font pas preuve de la même résilience. D’où vient cette capacité de rebond ? Mon intérêt porte sur deux facteurs clés : la mémoire collective (vécus des événements passés) et le capital social (bonding, bridging, linking).
@@ -36,7 +36,7 @@ Ma démarche s'inscrit dans une conception transformatrice de la résilience cen
 
 A travers le partage de vécus, les commémorations ou les élans de solidarité, les communautés résilientes puisent dans leur capital social pour se reconstruire. L’objectif est de mieux comprendre les ressorts de cette propriété émergente. Mais aussi de réfléchir à comment pouvoirs publics et collectifs citoyens peuvent la nourrir. 
 
-### Intuition 
+## Intuition 
 > *Faculté complémentaire à la raison et indispensable pour renforcer nos capacités d'anticipation*
 
 L’intuition est bien plus qu’un mode cognitif secondaire. C’est une faculté qui peut nous aider à faire des associations inattendues et à capter des signaux imperceptibles dans un monde de plus en plus complexe. Des travaux en psychologie cognitive et en neurosciences révèlent, par exemple, le rôle crucial de l’intuition dans la prise de décision dans des environnements VUCA (Volatils, Incertains, Complexes et Ambigus). 
@@ -45,7 +45,7 @@ En connectant des informations éparses logées dans notre mémoire associative,
 
 Depuis près de quatre siècles, nous cultivons la pensée rationnelle et analytique, à une échelle collective. Et si nous faisions pareil pour l'intuition ? Il ne s'agirait pas de soustraire la première faculté au profit de la seconde, mais d'additionner leurs forces (et reconnaître leurs faiblesses). Sous cet angle, la pensée intuitive, son rôle dans un groupe et les moyens de la valoriser socialement apparaissent comme un domaine de recherche peu exploré. L'idée est de concevoir et mettre en place des dispositifs expérimentaux pour aborder ces questions.
 
-### Science-post-normale
+## Science-post-normale
 > *Approche scientifique adaptée à la complexité des enjeux du XXIe siècle*
 
 La science « post-normale » constitue le cadre général dans lequel s’inscrit ma démarche. Face à la complexité des défis contemporains, elle promeut des approches résolument transdisciplinaires et ouvertes sur la société, comme par exemple, la Recherche Action Participative (RAP).

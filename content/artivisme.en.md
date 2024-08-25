@@ -7,7 +7,7 @@ In our era of uncertainty and change, creativity, emotion, and sensitivity are m
 
 I strive to bridge the realms of science, art, and sustainable transition, fostering dialogue among diverse viewpoints. My work centers on socio-ecological artivism through curated exhibitions. Artivism, as I define it, encompasses creative mediums and initiatives that inspire active engagement, aiming to transform our relationship with time and space while spurring urgent action.
 
-### Exhibitions
+## Exhibitions
 
 ***[Les unes de l'urgence, un demi-siècle de couvertures marquantes](https://)***, [in prep, 2024]. 
 

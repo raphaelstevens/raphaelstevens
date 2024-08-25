@@ -109,7 +109,7 @@ Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes
 - «&nbsp;[Notre monde va-t-il bientôt ressembler à MAD MAX ?](https://www.kairospresse.be/notre-monde-va-t-il-bientot-ressembler-a-mad-max/)&nbsp;», n°22, dec-janv 2016.
 - «&nbsp;[La finitude de notre civilisation : entre limites et frontières](https://www.kairospresse.be/la-finitude-de-notre-civilisation-entre-limites-et-frontieres/)&nbsp;», n°21, sept-oct 2015. 
 
-## Articles
+### Articles
 
 - «&nbsp;[Warum man sich mit dem Zusammenbruch auseinandersetzen muss](https://agora42.de/shop/1-2023-zusammenbruch/)&nbsp;», agora 42, janv 2023.
 - «&nbsp;[Reasons for anticipating societal collapse](https://www.researchgate.net/profile/Rupert-Read/publication/360947368_Deep_Adaptation_Navigating_the_Realities_of_Climate_Chaos/links/6294eb31c660ab61f852a2f8/Deep-Adaptation-Navigating-the-Realities-of-Climate-Chaos.pdf#page=101)&nbsp;», in "Deep Adaptation: Navigating the Realities of Climate Chaos", Eds. Rupert Read & Jem Bendell, Polity Press, 2021, pp. 87‑101. 

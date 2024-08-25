@@ -11,7 +11,7 @@ With this in mind, my work focuses on several complementary and forward-looking 
 
 The objective is twofold: to better understand the vulnerabilities and critical thresholds threatening our societies and the biosphere, and to identify the conditions and levers of transformation that could enhance our anticipation and adaptation capabilities.
 
-### Collapsology
+## Collapsology
 
 > *Transdisciplinary study of collapse risks and dynamics*
 
@@ -27,7 +27,7 @@ A deep understanding of these phenomena [collapso-logy] is essential to envision
 
 I share my bibliography on these topics via [collapsologie.info](https://www.collapsologie.info/en/science).
 
-### Resilience
+## Resilience
 
 > *Capacity to withstand shocks and transform*
 
@@ -37,7 +37,7 @@ My approach is grounded in a transformative conception of resilience which focus
 
 Through sharing experiences, commemorations, or mutual-aid, resilient communities draw on their "social capital" to rebuild. The goal is to better understand the drivers of this emergent property. But also to consider how public authorities and citizen collectives can nurture it.
 
-### Intuition
+## Intuition
 
 > *A faculty complementary to reason and indispensable for strengthening our anticipatory capacities*
 
@@ -49,7 +49,7 @@ For nearly four centuries, we've cultivated analytical and rational thinking on 
 
 From this perspective, intuitive thought, its role in group dynamics, and methods to socially validate it emerge as an underexplored area of research. The next step is to design and conduct experiments to investigate these questions further.
 
-### Post-normal science
+## Post-normal science
 
 > *A scientific approach adapted to the complexity of 21st century challenges*
 
