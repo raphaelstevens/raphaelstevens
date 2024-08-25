@@ -12,7 +12,32 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+    // Theme Toggle Logic
+    const themeToggle = document.querySelector('.theme-toggle');
+    
+    if (themeToggle) {
+        themeToggle.addEventListener('click', function() {
+            // Toggle between light and dark mode
+            document.body.classList.toggle('dark-mode');
+            document.body.classList.toggle('light-mode');
+
+            // Save the theme preference in local storage
+            const isDarkMode = document.body.classList.contains('dark-mode');
+            localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+        });
+    }
+
+    // Apply the saved theme on page load
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+        document.body.classList.add(savedTheme === 'dark' ? 'dark-mode' : 'light-mode');
+    } else {
+        document.body.classList.add('light-mode'); // Default to light mode
+    }
+
+    // Language Toggle Logic
     const languageToggle = document.querySelector('.language-toggle');
+    
     if (languageToggle) {
         languageToggle.addEventListener('click', function(event) {
             event.preventDefault();
@@ -23,12 +48,20 @@ document.addEventListener('DOMContentLoaded', function() {
             let path = window.location.pathname;
             path = currentLang === 'fr' ? '/en' + path : path.replace(/^\/en/, '');
 
-            // Immediate redirect
+            // Adjust text x position based on the new language
+            const textElement = languageToggle.querySelector('text');
+            if (textElement) {
+                textElement.setAttribute('x', newLang === 'fr' ? '13' : '27');
+                textElement.textContent = newLang === 'fr' ? 'EN' : 'FR';
+            }
+
+            // Immediate redirect to the new language path
             window.location.href = path;
         });
     }
 });
 </script>
+
 
 
 {{ if .Page.Store.Get "hasMermaid" }}

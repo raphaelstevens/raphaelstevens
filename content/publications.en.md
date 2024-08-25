@@ -3,37 +3,46 @@ title: "Publications"
 description: "How everything can collapse, Another End of the world, Petit traité de résilience locale, Aux origines de la catastrophe"
 robots: "noindex, nofollow, noarchive"
 ---
-I share my insights through [books](#books), magazine [columns](#columns), [articles](#articles).
+I share insights through [books](#books), magazine [columns](#columns), [articles](#articles).
 
-### Books
+## Books
 
-***[_How Everything Can Collapse_](https://www.wiley.com/en-us/How+Everything+Can+Collapse%3A+A+Manual+for+our+Times-p-9781509541393)***, 2015 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Comment-seffondrer-collapsologie-g%C3%A9n%C3%A9rations-pr%C3%A9sentes/dp/2021223310/), & [Press](#presse). 
+***[_How Everything Can Collapse_](https://www.wiley.com/en-us/How+Everything+Can+Collapse%3A+A+Manual+for+our+Times-p-9781509541393)***, 2015 (english edition, 2020). 
+Reviews on [AMZN](https://www.amazon.fr/Comment-seffondrer-collapsologie-g%C3%A9n%C3%A9rations-pr%C3%A9sentes/dp/2021223310/), & [Press](#presse).
 
-***[Petit traité de résilience locale](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/)***, 2015. Reviews on [AMZN](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862). [Free PDF/ EPUB copy in french](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/).
+***[Petit traité de résilience locale](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/)***, 2015. 
+Reviews on [AMZN](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862). [Free PDF/ EPUB copy in french](https://www.eclm.fr/livre/petit-traite-de-resilience-locale/).
 
-***[Another End of the World is Possible](https://www.wiley.com/en-us/Another+End+of+the+World+is+Possible%3A+Living+the+Collapse+%28and+Not+Merely+Surviving+It%29-p-9781509544677)***, 2018 (english edition, 2020). Reviews on [AMZN](https://www.amazon.fr/Une-autre-fin-monde-possible/dp/2021332586/). 
+***[Another End of the World is Possible](https://www.wiley.com/en-us/Another+End+of+the+World+is+Possible%3A+Living+the+Collapse+%28and+Not+Merely+Surviving+It%29-p-9781509544677)***, 2018 (english edition, 2020). 
+Reviews on [AMZN](https://www.amazon.fr/Une-autre-fin-monde-possible/dp/2021332586/). 
 
-***[Aux origines de la catastrophe](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html)***, 2020. Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes-nous/dp/B081WHR6HJ/). 
+***[Aux origines de la catastrophe](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html)***, 2020. 
+Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes-nous/dp/B081WHR6HJ/). 
 
-### Covers
-(GRC, TUR , BRE to come)
+## Covers
 
-|![1](/img/portfolio-1.jpg)|![2](/img/portfolio-2.jpg)|![3](/img/portfolio-3.jpg)| 
-|---|---|---|
+{{< gallery images=`[
+    {"src": "/img/portfolio-1.jpg", "alt": "Comment tout peut s'effondrer", "language": "FRA"},
+    {"src": "/img/portfolio-2.jpg", "alt": "Une autre fin du monde est possible", "language": "FRA"},
+    {"src": "/img/portfolio-3.jpg", "alt": "Petit traité de résilience locale", "language": "FRA"},
+    {"src": "/img/portfolio-4.jpg", "alt": "Aux origines de la catastrophe", "language": "FRA"},
+    {"src": "/img/portfolio-6.jpg", "alt": "How everything can collapse", "language": "ENG"},
+    {"src": "/img/portfolio-5.jpg", "alt": "Another end of the world is possible", "language": "ENG"},
+    {"src": "/img/portfolio-8.jpg", "alt": "Colapsologia", "language": "ESP"},
+    {"src": "/img/portfolio-9.jpg", "alt": "Otro fin del mundo es possible", "language": "ESP"},
+    {"src": "/img/portfolio-12.jpg", "alt": "How everything can collapse", "language": "JPN"},
+    {"src": "/img/portfolio-10.jpg", "alt": "How everything can collapse", "language": "GER"},
+    {"src": "/img/portfolio-15.jpg", "alt": "Convivre a la catastrofe", "language": "ITA"},
+    {"src": "/img/portfolio-7.jpg", "alt": "Un altra fine del mundo e possible", "language": "ITA"},
+    {"src": "/img/portfolio-13.jpg", "alt": "How everything can collapse", "language": "RUS"},
+    {"src": "/img/portfolio-14.jpg", "alt": "Another end of the world is possible", "language": "RUS"},
+    {"src": "/img/portfolio-11.jpg", "alt": "Another end of the world is possible", "language": "CRO"},
+    {"src": "/img/portfolio-16.jpg", "alt": "How everything can collapse", "language": "POR"},
+    {"src": "/img/portfolio-17.jpg", "alt": "How everything can collapse", "language": "GRE"}
+    
+]` >}}
 
-|![4](/img/portfolio-4.jpg)|![5](/img/portfolio-6.jpg)|![6](/img/portfolio-5.jpg)|
-|---|---|---|
-
-|![7](/img/portfolio-8.jpg)|![8](/img/portfolio-9.jpg)|![9](/img/portfolio-10.jpg)| 
-|---|---|---|
-
-|![7](/img/portfolio-15.jpg)|![8](/img/portfolio-7.jpg)|![9](/img/portfolio-12.jpg)| 
-|---|---|---|
-
-|![7](/img/portfolio-13.jpg)|![8](/img/portfolio-14.jpg)|![9](/img/portfolio-11.jpg)| 
-|---|---|---|
-
-### Press
+## Press
 
 «&nbsp;Un ouvrage salutaire.&nbsp;» —&nbsp;Les Echos
 
@@ -63,9 +72,9 @@ I share my insights through [books](#books), magazine [columns](#columns), [arti
 
 «&nbsp;Il était grand temps et une raison de se réjouir que ce guide réaliste et chaleureux de l'effondrement de la société soit maintenant disponible en anglais. La clarté saine et complète apportée par Pablo Servigne et Raphaël Stevens libérera, je l'espère, beaucoup d'ingéniosité pratique aux États-Unis et dans d'autres pays. Quarante ans de développement du travail qui relie et du travail d'écologie profonde dans le monde entier m'ont appris que la confrontation ensemble de nos peurs et de nos pertes les yeux ouverts génère la solidarité et l'intelligence collective.&nbsp;» —&nbsp;Joana Macy, Philosophe, co-auteure de Coming Back to Life: The Updated Guide to The Work That Reconnects
 
-### Columns 
+## Columns 
 
-#### Magazine Imagine Demain le Monde (2018-...)
+### Magazine Imagine Demain le Monde (2018-...)
 
 - Nouvelle série de chroniques à venir en 2024  
 - «&nbsp;Quand les sciences s'intéressent au futur&nbsp;», n°146, sept - oct 2021.
@@ -83,7 +92,7 @@ I share my insights through [books](#books), magazine [columns](#columns), [arti
 - «&nbsp;[Comment parler du pire](https://rhizome.etopia.be/Default/doc/SYRACUSE/13688/comment-parler-du-pire)&nbsp;», n°127, mai-juin 2018.
 - «&nbsp;[L'intuition, pour penser les catastrophes](https://rhizome.etopia.be/Default/doc/SYRACUSE/13164/l-intuition-pour-penser-les-catastrophes)&nbsp;», n°126, mars-avril 2018.
 
-#### Journal Kairos (2015-2018)
+### Journal Kairos (2015-2018)
 
 - «&nbsp;[Se remettre (psychologiquement) d'une catastrophe](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», n°35, juin-juillet/août 2018.
 - «&nbsp;[Climat : des tempêtes d'émotions à venir](https://www.kairospresse.be/contributeurs/raphael-stevens/)&nbsp;», n°34, avril-mai 2018.
@@ -100,7 +109,7 @@ I share my insights through [books](#books), magazine [columns](#columns), [arti
 - «&nbsp;[Notre monde va-t-il bientôt ressembler à MAD MAX ?](https://www.kairospresse.be/notre-monde-va-t-il-bientot-ressembler-a-mad-max/)&nbsp;», n°22, dec-janv 2016.
 - «&nbsp;[La finitude de notre civilisation : entre limites et frontières](https://www.kairospresse.be/la-finitude-de-notre-civilisation-entre-limites-et-frontieres/)&nbsp;», n°21, sept-oct 2015. 
 
-### Articles
+## Articles
 
 - «&nbsp;[Warum man sich mit dem Zusammenbruch auseinandersetzen muss](https://agora42.de/shop/1-2023-zusammenbruch/)&nbsp;», agora 42, janv 2023.
 - «&nbsp;[Reasons for anticipating societal collapse](https://www.researchgate.net/profile/Rupert-Read/publication/360947368_Deep_Adaptation_Navigating_the_Realities_of_Climate_Chaos/links/6294eb31c660ab61f852a2f8/Deep-Adaptation-Navigating-the-Realities-of-Climate-Chaos.pdf#page=101)&nbsp;», in "Deep Adaptation: Navigating the Realities of Climate Chaos", Eds. Rupert Read & Jem Bendell, Polity Press, 2021, pp. 87‑101. 

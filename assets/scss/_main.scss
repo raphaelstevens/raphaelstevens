@@ -494,3 +494,28 @@ hr {
   position: relative;
   top: 1px;
 }
+
+:root {
+    --circle-fill-light: #FAFAFA;
+    --circle-fill-dark: #1B1C1D;
+    --text-fill-light: #FAFAFA;
+    --text-fill-dark: #1B1C1D;
+}
+
+body.light-mode {
+    --circle-fill: var(--circle-fill-light);
+    --text-fill: var(--text-fill-light);
+
+}
+
+body.dark-mode {
+    --circle-fill: var(--circle-fill-dark);
+    --text-fill: var(--text-fill-dark);
+
+}
+
+/* Set default theme to light mode if no preference is set */
+body {
+    --circle-fill: var(--circle-fill-light);
+    --text-fill: var(--text-fill-light);
+}

@@ -1,0 +1,71 @@
+<!-- layouts/shortcodes/image-paragraph.html -->
+{{ $image := .Get "image" }}
+{{ $alt := .Get "alt" | default "Image" }}
+{{ $size := .Get "size" | default "200px" }}
+
+<div class="image-paragraph-container">
+  <div class="image-container">
+    <img src="{{ $image }}" alt="{{ $alt }}" title="{{ $alt }}" class="circular-image">
+  </div>
+  <div class="text-container">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
+
+<style>
+.image-paragraph-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.image-container {
+  flex-shrink: 0;
+  margin-left: 1rem;
+  order: 2;
+  position: relative;
+ }
+
+.circular-image {
+  width: {{ $size }};
+  height: {{ $size }};
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.image-container:hover::after {
+  content: attr(title);
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #1B1C1D;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.text-container {
+  flex-grow: 1;
+  order: 1;
+}
+
+@media (max-width: 600px) {
+  .image-paragraph-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .image-container {
+    margin-left: 0;
+    margin-bottom: 1rem;
+    order: 1;
+  }
+  
+  .text-container {
+    order: 2;
+  }
+}
+</style>

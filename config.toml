@@ -50,7 +50,7 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
+path = ""
 
 [params]
   firstname = "Raphaël"
@@ -68,7 +68,7 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
  
-  # backgroundImage = "/img/background-rs.jpg"
+  # backgroundImage = ""
 
   # gitUrl = ""
 
@@ -78,9 +78,7 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
 
   enableThemeToggle = true
   # defaultTheme = "dark"
-
   enableSharingButtons = true
-
   enableGlobalLanguageMenu = true
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
@@ -108,23 +106,23 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
     theme = "#1b1c1d"
 
   [params.logo]
-    logoMark     = " "
-    logoText     = "HOME"
-    logoHomeLink = "/"
-    logoCursorColor    = "#86C885"
+    logoMark        = " "
+    logoText        = "Home"
+    logoHomeLink    = "/"
+    logoCursorColor = "#86C885"
 
   # [params.commento]
   #   url = ""
 
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  #[params.portrait]
+  #  path     = "img/raphael-stevens.jpg"
+  #  alt      = "© Jérôme Panconi"
+  #  maxWidth = "130px"
 
 
 [languages]
   [languages.fr]
-     disabled = false
+    disabled = false
     languageCode = "fr-FR"
     languageDirection = "ltr"
     languageName = "fr"

@@ -1,0 +1,45 @@
+<!-- layouts/shortcodes/image-credit.html -->
+{{ $img := .Get "src" }}
+{{ $credit := .Get "credit" }}
+{{ $alt := .Get "alt" | default "" }}
+
+<figure class="image-figure">
+  <img src="{{ $img }}" alt="{{ $alt }}">
+  <figcaption class="image-credit">{{ $credit }}</figcaption>
+</figure>
+
+<style>
+  :root {
+    --credit-bg-light: #FAFAFA;
+    --credit-text-light: #222222;
+    --credit-bg-dark: #1B1C1D;
+    --credit-text-dark: #A9A9B3;
+  }
+
+  .image-figure {
+    margin: 0;
+    padding: 0;
+  }
+
+  .image-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .image-credit {
+    font-family: monospace, sans-serif;
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    text-align: left;
+    margin: 0;
+    background-color: var(--credit-bg-light);
+    color: var(--credit-text-light);
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  body.dark-mode .image-credit {
+    background-color: var(--credit-bg-dark);
+    color: var(--credit-text-dark);
+  }
+</style>

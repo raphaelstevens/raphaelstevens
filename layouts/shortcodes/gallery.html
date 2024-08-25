@@ -1,0 +1,115 @@
+<div class="image-gallery-container">
+  <!-- Language Selector -->
+  <div class="language-selector">
+      <button class="filter-btn" data-language="all">All</button>
+      <button class="filter-btn" data-language="FRA">FR</button>
+      <button class="filter-btn" data-language="ENG">EN</button>
+      <button class="filter-btn" data-language="ESP">ES</button>
+      <button class="filter-btn" data-language="JPN">JP</button>
+      <button class="filter-btn" data-language="ITA">IT</button>
+      <button class="filter-btn" data-language="GER">DE</button>
+      <button class="filter-btn" data-language="POR">PO</button>
+      <button class="filter-btn" data-language="RUS">RU</button>
+      <button class="filter-btn" data-language="CRO">CR</button>
+      <button class="filter-btn" data-language="GRE">GR</button>
+  </div>
+
+  <!-- Gallery Grid -->
+  <div class="image-gallery-grid">
+      {{ $images := .Get "images" | transform.Unmarshal }}
+      {{ range $image := $images }}
+      <div class="image-item" data-language="{{ $image.language }}">
+          <img src="{{ $image.src }}" alt="{{ $image.alt }}">
+      </div>
+      {{ end }}
+  </div>
+</div>
+
+<style>
+.image-gallery-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.language-selector {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  font-family: monospace, sans-serif;
+  font-size: 0.8rem;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  background-color: currentColor;
+  cursor: pointer;
+  border-radius: 0px;
+  transition: background-color 0.3s;
+}
+
+.filter-btn:hover {
+  background-color: #7c7c7c;
+}
+
+.image-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.image-item {
+  overflow: hidden;
+}
+
+.image-item img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+  border-radius: 0px;
+  transition: transform 0.5s;
+}
+
+.image-item img:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .image-gallery-grid {
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .filter-btn {
+      display: block;
+      width: 100%;
+      margin: 10px 0;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  const imageItems = document.querySelectorAll('.image-item');
+
+  filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+          const language = button.getAttribute('data-language');
+
+          imageItems.forEach(item => {
+              const itemLanguage = item.getAttribute('data-language');
+
+              if (language === 'all' || language === itemLanguage) {
+                  item.style.display = 'block';
+              } else {
+                  item.style.display = 'none';
+              }
+          });
+      });
+  });
+});
+</script>
