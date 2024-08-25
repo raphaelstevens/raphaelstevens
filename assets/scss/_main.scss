@@ -521,3 +521,85 @@ body {
     --circle-fill: var(--circle-fill-light);
     --text-fill: var(--text-fill-light);
 }
+
+// Gallery Styles
+
+.image-gallery-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.language-selector {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.filter-btn {
+  font-family: monospace, sans-serif;
+  font-size: 1rem;
+  padding: 5px 10px;
+  margin: 5px;
+  border: none;
+  background-color: $light-background-secondary;
+  color: $light-color;
+  cursor: pointer;
+  border-radius: 0;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: darken($light-background-secondary, 10%);
+  }
+
+  [data-theme="dark"] & {
+    background-color: $dark-background-secondary;
+    color: $dark-color;
+
+    &:hover {
+      background-color: lighten($dark-background-secondary, 10%);
+    }
+  }
+}
+
+.image-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.image-item {
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    border-radius: 0;
+    transition: transform 0.5s;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
+
+@media #{$media-size-tablet} {
+  .image-gallery-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media #{$media-size-phone} {
+  .image-gallery-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .filter-btn {
+    font-size: 0.9rem;
+    padding: 4px 8px;
+  }
+}
+
+// End of Gallery Styles
