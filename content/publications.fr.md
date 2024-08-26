@@ -48,33 +48,33 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
 
 ## Presse
 
-«&nbsp;Un ouvrage salutaire.&nbsp;» —&nbsp;Les Echos
+«&nbsp;Un ouvrage salutaire.&nbsp;» —&nbsp;*Les Echos*
 
-«&nbsp;Précieux.&nbsp;» —&nbsp;Libération
+«&nbsp;Précieux.&nbsp;» —&nbsp;*Libération*
 
-«&nbsp;Ces collapsologues sont très énervants, car ils ont des arguments. […] D'où notre conseil d'ami: surtout n'ouvrez pas ce livre !&nbsp;» —&nbsp;Le Canard Enchaîné
+«&nbsp;Ces collapsologues sont très énervants, car ils ont des arguments. […] D'où notre conseil d'ami: surtout n'ouvrez pas ce livre !&nbsp;» —&nbsp;*Le Canard Enchaîné*
 
-«&nbsp;Un livre explosif que tout le monde devrait acheter et lire dès que possible.&nbsp;» —&nbsp;L'Obs
+«&nbsp;Un livre explosif que tout le monde devrait acheter et lire dès que possible.&nbsp;» —&nbsp;*L'Obs*
 
-«&nbsp;Prophétique.&nbsp;» —&nbsp;Bookforum
+«&nbsp;Prophétique.&nbsp;» —&nbsp;*Bookforum*
 
-«&nbsp;Fascinant... un point de vue intellectuel rafraîchissant, même s'il ne soulage pas nécessairement les peurs que nous lisons, voyons et ressentons chaque jour.&nbsp;» —&nbsp;TechCrunch
+«&nbsp;Fascinant... un point de vue intellectuel rafraîchissant, même s'il ne soulage pas nécessairement les peurs que nous lisons, voyons et ressentons chaque jour.&nbsp;» —&nbsp;*TechCrunch*
 
 «&nbsp;Louons les auteurs de parier pour la mise en œuvre des passions joyeuses de Spinoza, pour une résistance au camp de ceux qui détruisent la Terre, ses écosystèmes, ses collectifs humains et non-humains. À l’heure où le deuil de l’idée de révolution affaiblit en un sens la logique de la résistance, 'Une autre fin du monde est possible' oppose salutairement un contre-feu au nihilisme, et ce, en dépit de l’oscillation relevée.&nbsp;» —&nbsp;Véronique Bergen, membre l'Académie royale de langue et de littérature françaises de Belgique
 
-«&nbsp;Agnès Sinaï, Raphaël Stevens, Hugo Carton et Pablo Servigne signent avec ce 'Petit traité de la résilience locale'  un réel must-read pour toute personne ne voulant pas rester les bras croisés face aux défis futurs de notre société.&nbsp;» —&nbsp;Lectures
+«&nbsp;Agnès Sinaï, Raphaël Stevens, Hugo Carton et Pablo Servigne signent avec ce 'Petit traité de la résilience locale'  un réel must-read pour toute personne ne voulant pas rester les bras croisés face aux défis futurs de notre société.&nbsp;» —&nbsp;*Lectures*
 
 «&nbsp;Un état des lieux remarquable et ramassé de l’état actuel de la planète, assorti d’une réflexion incisive et équilibrée quant aux perspectives d’effondrement.&nbsp;» —&nbsp;Dominique Bourg, Philosophe, professeur émérite de l’université de Lausanne
 
-«&nbsp;Ce livre pétillant d’intelligence aborde avec un ton toujours juste la question essentielle de notre devenir. Je l’ai dévoré en pensant à chaque page à nos enfants&nbsp;» —&nbsp;Charles Hervé-Gruyer, Auteur de Permaculture. Guérir la Terre, nourrir les Hommes (Actes Sud, 2014)
+«&nbsp;Ce livre pétillant d’intelligence aborde avec un ton toujours juste la question essentielle de notre devenir. Je l’ai dévoré en pensant à chaque page à nos enfants&nbsp;» —&nbsp;Charles Hervé-Gruyer, Auteur de *Permaculture : Guérir la Terre, nourrir les Hommes* (Actes Sud, 2014)
 
-«&nbsp;[…] les dignes successeurs de Jean-Pierre Dupuy (pour un catastrophisme éclairé) et Hans Jonas (le principe responsabilité). C’est un livre à conseiller à tous les écologistes pour leur permettre de mieux éclairer les autres.&nbsp;» —&nbsp;Association des Journalistes-écrivains pour la nature et l’écologie
+«&nbsp;[…] les dignes successeurs de Jean-Pierre Dupuy (pour un catastrophisme éclairé) et Hans Jonas (le principe responsabilité). C’est un livre à conseiller à tous les écologistes pour leur permettre de mieux éclairer les autres.&nbsp;» —&nbsp;*Association des Journalistes-écrivains pour la nature et l’écologie*
 
 «&nbsp;Y a-t-il matière plus importante que celle traitée dans ce livre ? Non. Y a-t-il matière plus négligée que celle-ci ? Non plus.&nbsp;» —&nbsp;Yves Cochet, Mathématicien, ancien Ministre de l'Environnement et Député Européen
 
 «&nbsp;C'est un livre important. Les auteurs évitent de faire de la peur apocalyptique, mais présentent des arguments convaincants pour montrer que notre société est de plus en plus vulnérable à des revers insidieux mais potentiellement dévastateurs – et que, parce que notre monde est désormais si interconnecté, tout effondrement aurait des répercussions à l'échelle mondiale. Il laissera les lecteurs profondément anxieux quant à la direction que nous prenons. Mais il mérite une large audience parmi tous les citoyens concernés – et, encore plus, parmi ceux qui peuvent influencer les politiques.&nbsp;» —&nbsp;Sir Martin Rees, Astronome Royal et ancien maître du Trinity College de Cambridge
 
-«&nbsp;Il était grand temps et une raison de se réjouir que ce guide réaliste et chaleureux de l'effondrement de la société soit maintenant disponible en anglais. La clarté saine et complète apportée par Pablo Servigne et Raphaël Stevens libérera, je l'espère, beaucoup d'ingéniosité pratique aux États-Unis et dans d'autres pays. Quarante ans de développement du travail qui relie et du travail d'écologie profonde dans le monde entier m'ont appris que la confrontation ensemble de nos peurs et de nos pertes les yeux ouverts génère la solidarité et l'intelligence collective.&nbsp;» —&nbsp;Joana Macy, Philosophe, co-auteure de Coming Back to Life: The Updated Guide to The Work That Reconnects
+«&nbsp;Il était grand temps et une raison de se réjouir que ce guide réaliste et chaleureux de l'effondrement de la société soit maintenant disponible en anglais. La clarté saine et complète apportée par Pablo Servigne et Raphaël Stevens libérera, je l'espère, beaucoup d'ingéniosité pratique aux États-Unis et dans d'autres pays. Quarante ans de développement du travail qui relie et du travail d'écologie profonde dans le monde entier m'ont appris que la confrontation ensemble de nos peurs et de nos pertes les yeux ouverts génère la solidarité et l'intelligence collective.&nbsp;» —&nbsp;Joana Macy, Philosophe, co-auteure de *Coming Back to Life: The Updated Guide to The Work That Reconnects*
 
 ## Chroniques 
 
