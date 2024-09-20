@@ -42,8 +42,8 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
     {"src": "/img/portfolio-14.jpg", "alt": "Another end of the world is possible", "language": "RUS"},
     {"src": "/img/portfolio-11.jpg", "alt": "Another end of the world is possible", "language": "CRO"},
     {"src": "/img/portfolio-16.jpg", "alt": "How everything can collapse", "language": "POR"},
-    {"src": "/img/portfolio-17.jpg", "alt": "How everything can collapse", "language": "GRE"}
-    {"src": "/img/portfolio-18.jpg", "alt": "Comment tout peut s'effondrer", "language": "FRA"}
+    {"src": "/img/portfolio-17.jpg", "alt": "How everything can collapse", "language": "GRE"},
+    {"src": "/img/portfolio-18.jpg", "alt": "Comment tout peut s'effondrer", "language": "FRA"},
     {"src": "/img/portfolio-19.jpg", "alt": "Une autre fin du monde est possible", "language": "FRA"}
 ]` >}}
 
