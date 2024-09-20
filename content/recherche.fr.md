@@ -15,14 +15,14 @@ Ces dernières décennies, le vocabulaire de la *fin d(')u(n) monde* s'est méta
 
 Au cœur de ces démarches, les sciences de la complexité offrent des outils essentiels pour identifier les points de bascule, analyser les boucles de rétroaction, ou encore étudier les interactions entre systèmes sociaux et écologiques, du local au global. Un aspect crucial des recherches récentes est l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*) qui évalue les impacts actuels et futurs sur les chaînes d'approvisionnement, les infrastructures critiques et les écosystèmes. Les scénarios envisagés vont d'effondrements localisés à des ruptures globales, y compris des menaces existentielles pour notre espèce. Ces scénarios, même extrêmes, sont essentiels pour une prospective rigoureuse et une meilleure compréhension des risques.
 
-Cette compréhension des risques et des dynamiques d'effondrements écologiques et sociaux (collapso-*logie*) ne vise pas seulement à anticiper les crises. Elle est aussi essentielle pour concevoir des réponses adaptées, démocratiques et solidaires (collapso-*praxis*). Au-delà de l'aspect scientifique, cette démarche nous invite à repenser notre rapport au monde et à explorer la place des émotions et de la spiritualité face à ces défis (collapsos-*ophie*). 
+Cette compréhension des risques et des dynamiques d'effondrements écologiques et sociaux (collapso-*logie*) ne vise pas seulement à anticiper les crises. Elle est aussi essentielle pour concevoir des réponses adaptées, démocratiques et solidaires (collapso-*praxis*). Au-delà de l'aspect scientifique, cette démarche nous invite à repenser notre rapport au monde et à explorer la place des émotions et de la spiritualité face à ces défis (collapso-*sophie*). 
 
 Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets.
 
 ## Résilience
 > *Capacité à encaisser les chocs et à se transformer*
 
-Lorsque des catastrophes frappent un territoire, toutes les communautés ne font pas preuve de la même résilience. D’où vient cette capacité de rebond ? Mon intérêt porte sur deux facteurs clés : la mémoire collective (vécus des événements passés) et le capital social (bonding, bridging, linking).
+Lorsque des catastrophes frappent un territoire, toutes les communautés ne font pas preuve de la même résilience. D’où vient cette capacité de rebond ? Mon intérêt porte sur deux facteurs clés : la mémoire collective (vécus des événements passés) et le capital social (*bonding, bridging, linking*).
 
 Ma démarche s'inscrit dans une conception transformatrice de la résilience centrée sur les populations locales, leurs besoins et leurs aspirations propres, tout prenant en considération les relations de pouvoir et les inégalités qui les traversent.
 
@@ -40,7 +40,7 @@ Depuis près de quatre siècles, nous cultivons la pensée rationnelle et analyt
 ## Science-post-normale
 > *Approche scientifique adaptée à la complexité des enjeux du XXIe siècle*
 
-La science « post-normale » constitue le cadre général dans lequel s’inscrit ma démarche. Face à la complexité des défis contemporains, elle promeut des approches résolument transdisciplinaires et ouvertes sur la société, comme par exemple, la Recherche Action Participative (RAP).
+La science « post-normale » constitue le cadre général dans lequel s’inscrit ma démarche. Face à la complexité des défis contemporains, elle promeut des approches résolument transdisciplinaires et ouvertes sur la société, comme par exemple, la *Recherche Action Participative* (RAP).
 
 Ce concept a émergé dans les années 1990 pour dépasser les limites des approches scientifiques conventionnelles sur des problèmes caractérisés par de fortes incertitudes et une pluralité de visions du monde. 
 
