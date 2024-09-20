@@ -4,28 +4,21 @@ description: "Mieux comprendre les vulnérabilités et seuils critiques. Stimule
 robots: "noindex, nofollow, noarchive"
 ---
 
-Notre monde traverse une période de transformations profondes et multiples. Ces mutations s'entremêlent et s'amplifient mutuellement, créant une "polycrise" sans précédent qui met à l'épreuve la résilience de nos structures sociales et l'intégrité des écosystèmes. 
+Le monde traverse une période de mutations profondes, offrant un terrain d'étude aussi fascinant que complexe. Mon travail se situe à l'intersection de ces transformations, explorant les dynamiques qui façonnent notre avenir collectif. Il s'articule autour de plusieurs axes complémentaires et prospectifs : [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). 
 
-Dans ce contexte critique, la communauté scientifique souligne l'urgence d'une réflexion approfondie sur notre avenir collectif et la nécessité de préserver l'habitabilité de la Terre.
-
-Mes travaux s'inscrivent dans cette démarche et portent sur plusieurs axes complémentaires et prospectifs : [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). 
-
-L'objectif est double. Il s'agit de mieux comprendre les vulnérabilités et seuils critiques qui menacent nos sociétés et la biosphère, ainsi qu'identifier les conditions et leviers de transformation permettant de stimuler nos capacités d'anticipation et d'adaptation.
+L'objectif est double : d'une part, mieux comprendre les vulnérabilités et les seuils critiques qui menacent nos sociétés et la biosphère ; d'autre part, identifier les leviers de transformation qui peuvent renforcer notre capacité d'anticipation et d'adaptation.
 
 ## Collapsologie
 > *Etude transdisciplinaire des risques et dynamiques d'effondrement*
 
-Face aux bouleversements actuels et à venir, de nouvelles approches méthodologiques et outils d'analyse émergent. Par exemple, l'étude des risques composés (*compound risks*) et des problèmes pernicieux (*wicked problems*) offre des cadres d'analyse permettant d'explorer la nature polymorphe des perturbations, leurs interconnexions et leurs impacts potentiels.
+Ces dernières décennies, le vocabulaire de la *fin d(')u(n) monde* s'est métamorphosé en un champ lexical scientifique florissant. Des concepts comme l'*anthropocène*/*capitalocène*, les *frontières planétaires (planetary boundaries)*, ou la *polycrise* d'Edgar Morin ont proliféré, transcendant les frontières disciplinaires. Par exemple, l'étude des problèmes pernicieux (*wicked problems*) est devenue incontournable dans l'analyse des risques systémiques globaux. 
 
-Un aspect crucial des recherches récentes dans le domaine concerne l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*). Nos systèmes interconnectés sont vulnérables à des effets domino potentiellement dévastateurs, où la perturbation d'un élément peut entraîner une réaction en chaîne affectant l'ensemble. 
+Au cœur de ces démarches, les sciences de la complexité offrent des outils essentiels pour identifier les points de bascule, analyser les boucles de rétroaction, ou encore étudier les interactions entre systèmes sociaux et écologiques, du local au global. Un aspect crucial des recherches récentes est l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*) qui évalue les impacts actuels et futurs sur les chaînes d'approvisionnement, les infrastructures critiques et les écosystèmes. Les scénarios envisagés vont d'effondrements localisés à des ruptures globales, y compris des menaces existentielles pour notre espèce. Ces scénarios, même extrêmes, sont essentiels pour une prospective rigoureuse et une meilleure compréhension des risques.
 
-Les scénarios envisagés dans la littérature scientifique couvrent un large spectre, allant d'effondrements localisés ou écosystémiques à des ruptures globales, incluant l'hypothèse d'une menace existentielle pour notre espèce. Loin d'être de simples spéculations, ces scénarios, même les plus extrêmes, constituent des objets d'étude essentiels à une prospective rigoureuse. 
-
-Il s'agit d'adopter une pensée systémique pour identifier les points de bascule et les dynamiques de rétroaction (*positives* et *négatives, sociales* et *écologiques, présentes* et *futures, locales* et *globales*, etc.) qui façonnent l'évolution de ces systèmes. 
-
-Une compréhension approfondie de ces phénomènes [collapso-*logie*] est indispensable pour envisager des réponses démocratiques, solidaires, justes et soutenables [collapso-*praxis*]. Il est également crucial de s'interroger sur la place des émotions et de la spiritualité dans ce débat, de chercher à retrouver du sens et à renouveler notre rapport au monde pour traverser les tempêtes [collapso-*sophie*]. 
+Cette compréhension des risques et des dynamiques d'effondrements écologiques et sociaux (collapso-*logie*) ne vise pas seulement à anticiper les crises. Elle est aussi essentielle pour concevoir des réponses adaptées, démocratiques et solidaires (collapso-*praxis*). Au-delà de l'aspect scientifique, cette démarche nous invite à repenser notre rapport au monde et à explorer la place des émotions et de la spiritualité face à ces défis (collapsos-*ophie*). 
 
 Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets.
+
 ## Résilience
 > *Capacité à encaisser les chocs et à se transformer*
 
