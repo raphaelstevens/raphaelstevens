@@ -35,7 +35,7 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
     {"src": "/img/portfolio-8.jpg", "alt": "Colapsologia", "language": "ESP"},
     {"src": "/img/portfolio-9.jpg", "alt": "Otro fin del mundo es possible", "language": "ESP"},
     {"src": "/img/portfolio-12.jpg", "alt": "How everything can collapse", "language": "JPN"},
-    {"src": "/img/portfolio-10.jpg", "alt": "How everything can collapse", "language": "GER"},
+    {"src": "/img/portfolio-10.jpg", "alt": "How everything can collapse", "language": "DEU"},
     {"src": "/img/portfolio-15.jpg", "alt": "Convivre a la catastrofe", "language": "ITA"},
     {"src": "/img/portfolio-7.jpg", "alt": "Un altra fine del mundo e possible", "language": "ITA"},
     {"src": "/img/portfolio-13.jpg", "alt": "How everything can collapse", "language": "RUS"},
@@ -43,6 +43,7 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
     {"src": "/img/portfolio-11.jpg", "alt": "Another end of the world is possible", "language": "CRO"},
     {"src": "/img/portfolio-16.jpg", "alt": "How everything can collapse", "language": "POR"},
     {"src": "/img/portfolio-17.jpg", "alt": "How everything can collapse", "language": "GRE"},
+    {"src": "/img/portfolio-21.jpg", "alt": "How everything can collapse", "language": "KOR"},
     {"src": "/img/portfolio-18.jpg", "alt": "Comment tout peut s'effondrer", "language": "FRA"},
     {"src": "/img/portfolio-19.jpg", "alt": "Une autre fin du monde est possible", "language": "FRA"}
 ]` >}}
@@ -68,6 +69,8 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
 «&nbsp;Un état des lieux remarquable et ramassé de l’état actuel de la planète, assorti d’une réflexion incisive et équilibrée quant aux perspectives d’effondrement.&nbsp;» —&nbsp;Dominique Bourg, Philosophe, professeur émérite de l’université de Lausanne
 
 «&nbsp;Ce livre pétillant d’intelligence aborde avec un ton toujours juste la question essentielle de notre devenir. Je l’ai dévoré en pensant à chaque page à nos enfants&nbsp;» —&nbsp;Charles Hervé-Gruyer, Auteur de *Permaculture : Guérir la Terre, nourrir les Hommes* (Actes Sud, 2014)
+
+«&nbsp;C'est un livre d'espoir, malgré son titre apocalyptique&nbsp;» —&nbsp; Alison Mestón, Directrice de la communication, International Science Council.
 
 «&nbsp;[…] les dignes successeurs de Jean-Pierre Dupuy (pour un catastrophisme éclairé) et Hans Jonas (le principe responsabilité). C’est un livre à conseiller à tous les écologistes pour leur permettre de mieux éclairer les autres.&nbsp;» —&nbsp;*Association des Journalistes-écrivains pour la nature et l’écologie*
 

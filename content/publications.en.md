@@ -31,14 +31,18 @@ Reviews on [AMZN](https://www.amazon.fr/Aux-origines-catastrophe-Pourquoi-sommes
     {"src": "/img/portfolio-8.jpg", "alt": "Colapsologia", "language": "ESP"},
     {"src": "/img/portfolio-9.jpg", "alt": "Otro fin del mundo es possible", "language": "ESP"},
     {"src": "/img/portfolio-12.jpg", "alt": "How everything can collapse", "language": "JPN"},
-    {"src": "/img/portfolio-10.jpg", "alt": "How everything can collapse", "language": "GER"},
+    {"src": "/img/portfolio-10.jpg", "alt": "How everything can collapse", "language": "DEU"},
     {"src": "/img/portfolio-15.jpg", "alt": "Convivre a la catastrofe", "language": "ITA"},
     {"src": "/img/portfolio-7.jpg", "alt": "Un altra fine del mundo e possible", "language": "ITA"},
     {"src": "/img/portfolio-13.jpg", "alt": "How everything can collapse", "language": "RUS"},
     {"src": "/img/portfolio-14.jpg", "alt": "Another end of the world is possible", "language": "RUS"},
     {"src": "/img/portfolio-11.jpg", "alt": "Another end of the world is possible", "language": "CRO"},
     {"src": "/img/portfolio-16.jpg", "alt": "How everything can collapse", "language": "POR"},
-    {"src": "/img/portfolio-17.jpg", "alt": "How everything can collapse", "language": "GRE"}
+    {"src": "/img/portfolio-17.jpg", "alt": "How everything can collapse", "language": "GRE"},
+    {"src": "/img/portfolio-21.jpg", "alt": "How everything can collapse", "language": "KOR"},
+    {"src": "/img/portfolio-18.jpg", "alt": "Comment tout peut s'effondrer", "language": "FRA"},
+    {"src": "/img/portfolio-19.jpg", "alt": "Une autre fin du monde est possible", "language": "FRA"}
+
     
 ]` >}}
 
