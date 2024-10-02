@@ -4,18 +4,18 @@ description: "Mieux comprendre les vulnérabilités et seuils critiques. Stimule
 robots: "noindex, nofollow, noarchive"
 ---
 
-Le monde traverse une période de mutations profondes, offrant un terrain d'étude aussi fascinant que complexe. Mon travail se situe à l'intersection de ces transformations, explorant les dynamiques qui façonnent notre avenir collectif. Il s'articule autour de plusieurs axes complémentaires et prospectifs : [Collapsologie](#collapsologie), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). 
+Le monde traverse une période de mutations profondes, offrant un terrain d'étude aussi fascinant que complexe. Mon travail se situe à l'intersection de ces transformations, explorant les dynamiques qui façonnent notre avenir collectif. Il s'articule autour de plusieurs axes complémentaires et prospectifs : [Polycrise](#polycrise), [résilience](#résilience), [intuition](#intuition) & [science post-normale](#science-post-normale). 
 
 L'objectif est double : d'une part, mieux comprendre les vulnérabilités et les seuils critiques qui menacent nos sociétés et la biosphère ; d'autre part, identifier les leviers de transformation qui peuvent renforcer notre capacité d'anticipation et d'adaptation.
 
-## Collapsologie
-> *Etude transdisciplinaire des risques et dynamiques d'effondrement*
+## Polycrise
+> *Etude multidisciplinaire des risques et interactions complexes*
 
-Ces dernières décennies, le vocabulaire de la *fin d(')u(n) monde* s'est métamorphosé en un champ lexical scientifique florissant. Des concepts comme l'*anthropocène*/*capitalocène*, les *frontières planétaires (planetary boundaries)*, ou la *polycrise* d'Edgar Morin ont proliféré, transcendant les frontières disciplinaires. Par exemple, l'étude des problèmes pernicieux (*wicked problems*) est devenue incontournable dans l'analyse des risques systémiques globaux. 
+Ces dernières décennies, le vocabulaire de l'analyse des crises systémiques globales s'est considérablement enrichi, donnant naissance à un champ lexical scientifique florissant. Des concepts comme l'anthropocène/capitalocène, les frontières planétaires (*planetary boundaries*), ou les problèmes pernicieux (*wicked problems*) ont proliféré, transcendant les frontières disciplinaires. 
 
-Au cœur de ces démarches, les sciences de la complexité offrent des outils essentiels pour identifier les points de bascule, analyser les boucles de rétroaction, ou encore étudier les interactions entre systèmes sociaux et écologiques, du local au global. Un aspect crucial des recherches récentes est l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*) qui évalue les impacts actuels et futurs sur les chaînes d'approvisionnement, les infrastructures critiques et les écosystèmes. Les scénarios envisagés vont d'effondrements localisés à des ruptures globales, y compris des menaces existentielles pour notre espèce. Ces scénarios, même extrêmes, sont essentiels pour une prospective rigoureuse et une meilleure évaluations des risques.
+Au cœur de ces démarches, les sciences de la complexité offrent des outils essentiels pour identifier les points de bascule, analyser les boucles de rétroaction, ou encore étudier les interactions entre systèmes sociaux et écologiques. Un aspect crucial des recherches récentes est l'analyse des défaillances en cascade (*cascading*) ou simultanées (*synchronous*) qui évalue les impacts actuels et futurs sur les chaînes d'approvisionnement, les infrastructures critiques et les écosystèmes. Les scénarios envisagés vont d'effondrements localisés à des ruptures globales, y compris des menaces existentielles pour notre espèce. Ces scénarios, même extrêmes, sont essentiels pour une prospective rigoureuse et une meilleure évaluation des risques.
 
-Cette compréhension des risques et des dynamiques d'effondrements écologiques et sociaux (collapso-*logie*) ne vise pas seulement à anticiper les crises. Elle est aussi essentielle pour concevoir des réponses adaptées, démocratiques et solidaires (collapso-*praxis*). Au-delà de l'aspect scientifique, cette démarche nous invite à repenser notre rapport au monde et à explorer la place des émotions et de la spiritualité face à ces défis (collapso-*sophie*). 
+Cette compréhension des risques et des dynamiques d'effondrements écologiques et sociaux (collapso-*logie*) est essentielle pour concevoir des réponses adaptées, démocratiques et solidaires (collapso-*praxis*). Au-delà de l'aspect scientifique, cette démarche nous invite à repenser notre rapport au monde et à explorer la place des émotions et de la spiritualité face à ces défis (collapso-*sophie*). 
 
 Je partage une [bibliographie](https://www.collapsologie.info/fr/science) sur ces sujets.
 

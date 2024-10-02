@@ -7,25 +7,21 @@ Our world is undergoing profound and multifaceted transformations. These changes
 
 In this critical context, the scientific community emphasizes the urgency of deep reflection on our collective future and the need to preserve Earth's habitability.
 
-With this in mind, my work focuses on several complementary and forward-looking areas: [Collapsology](#collapsology), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). 
+With this in mind, my work focuses on several complementary and forward-looking areas: [Polycrisis](#polycrisis), [resilience](#resilience), [intuition](#intuition) & [post-normal science](#post-normal-science). 
 
 The objective is twofold: to better understand the vulnerabilities and critical thresholds threatening our societies and the biosphere, and to identify the conditions and levers of transformation that could enhance our anticipation and adaptation capabilities.
 
-## Collapsology
+## Polycrisis
 
-> *Transdisciplinary study of collapse risks and dynamics*
+> *Multidisciplinary study of complex risks and interactions*
 
-In the face of current and future upheavals, new methodological approaches and analytical tools are emerging. For instance, the study of compound risks and wicked problems offers analytical frameworks to explore the polymorphic nature of disturbances, their interconnections, and potential impacts.
+In recent decades, the vocabulary for analysing global systemic crises has considerably expanded, giving rise to a flourishing scientific lexicon. Concepts such as the Anthropocene/Capitalocene, planetary boundaries, and wicked problems have proliferated, transcending disciplinary boundaries.
 
-A crucial aspect of current research in academia concerns the analysis of cascading or synchronous failures. Our interconnected systems are vulnerable to potentially devastating domino effects, where the disruption of one element can trigger a chain reaction affecting the whole. 
+At the heart of these approaches, complexity sciences offer essential tools for identifying tipping points, analysing feedback loops, and studying interactions between social and ecological systems. A crucial aspect of recent research is the analysis of cascading or synchronous failures, which evaluates current and future impacts on supply chains, critical infrastructure, and ecosystems. The scenarios envisaged range from localised collapses to global disruptions, including existential threats to our species. These scenarios, even extreme ones, are essential for rigorous foresight and improved risk assessment.
 
-Scenarios envisioned in scientific literature cover a wide spectrum, ranging from localized or ecosystem collapses to global breakdowns, including the hypothesis of an existential threat to our species. Far from being mere speculations, these scenarios, even the most extreme ones, are essential objects of study for rigorous foresight.
+This understanding of the risks and dynamics of ecological and social breakdowns (collaps-*ology*) is crucial for designing appropriate, democratic, and solidary responses (collapso-*praxis*). Beyond the scientific aspect, this approach invites us to rethink our relationship with the more-than-human world and to explore the role of emotions and spirituality in facing these challenges (collapso-*sophy*).
 
-The goal is to adopt systems thinking to identify tipping points and feedback dynamics (positive and negative, social and ecological, present and future, local and global, etc.) that shape the evolution of these systems.
-
-A deep understanding of these phenomena [collapso-logy] is essential to envision democratic, solidary, just, and sustainable responses [collapso-praxis]. It is also crucial to question the role of emotions and spirituality in this debate, to seek to rediscover meaning and renew our relationship with the more-than-human world to weather the storms [collapso-sophy].
-
-I share my bibliography on these topics via [collapsologie.info](https://www.collapsologie.info/en/science).
+I share my bibliography on these topics via [collapsology.info](https://www.collapsology.info/en/science).
 
 ## Resilience
 
