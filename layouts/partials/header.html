@@ -12,21 +12,9 @@
                 </span>
             {{ end }}
             <span class="toggle-container">
-                {{- if .Site.Params.EnableLanguageToggle }}
-                    <span class="language-toggle not-selectable" title="{{ if eq .Lang "fr" }}Switch to English{{ else }}Passer en Français{{ end }}">
-                        <svg width="40" height="20" viewBox="0 0 40 20" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="1" y="1" width="38" height="18" rx="9" ry="9" fill="currentColor" stroke="none" stroke-width="0"/>
-                            <text x="{{ if eq .Lang "fr" }}13{{ else }}27{{ end }}" y="11" font-family="Helvetica, sans-serif" font-size="8" font-weight="bold" fill="var(--text-fill)" text-anchor="middle" dominant-baseline="middle">{{ if eq .Lang "fr" }}EN{{ else }}FR{{ end }}</text>
-                            <circle cx="{{ if eq .Lang "fr" }}30{{ else }}10{{ end }}" cy="10" r="7" fill="var(--circle-fill)" />
-                        </svg>                        
-                    </span>
-                {{- end}}
-                {{- if .Site.Params.EnableThemeToggle }}
-                    <span class="theme-toggle not-selectable">
-                        {{ partial "theme-toggle-icon.html" . }}
-                    </span>
-                {{- end}}
+                {{ partial "toggle-icons.html" . }}
             </span>
         </span>
     </span>
 </header>
+

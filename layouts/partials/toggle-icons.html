@@ -1,0 +1,19 @@
+<!-- Language Toggle SVG -->
+<span class="language-toggle not-selectable" title="{{ if eq .Lang "fr" }}Switch to English{{ else }}Passer en Français{{ end }}">
+    <svg class="language-toggler" width="40" height="20" viewBox="0 0 40 20" xmlns="http://www.w3.org/2000/svg">
+        <rect x="1" y="1" width="38" height="18" rx="9" ry="9" fill="currentColor"/>
+        <text x="{{ if eq .Lang "fr" }}13{{ else }}27{{ end }}" y="50%" font-family="Helvetica, sans-serif" 
+              font-size="8" font-weight="bold" fill="var(--text-fill)" text-anchor="middle" dominant-baseline="central">
+            {{ if eq .Lang "fr" }}EN{{ else }}FR{{ end }}
+        </text>
+        <circle cx="{{ if eq .Lang "fr" }}30{{ else }}10{{ end }}" cy="10" r="7" fill="var(--circle-fill)" />
+    </svg>
+</span>
+
+<!-- Theme Toggle SVG (Dark/Light Mode) -->
+<span class="theme-toggle not-selectable" title="Toggle Theme">
+    <svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="22" cy="22" r="16" fill="none" stroke="currentColor" stroke-width="4"/>
+        <path d="M22 6A16 16 0 0 0 22 38V6Z" fill="currentColor"/>
+    </svg>
+</span>
