@@ -13,13 +13,13 @@ The objective is twofold: to better understand the vulnerabilities and critical 
 
 ## Polycrisis
 
-> *Multidisciplinary study of complex risks and interactions*
+> *A complex situation where multiple, interconnected crises converge and amplify each other, resulting in systemic challenges that are difficult to manage or resolve*
 
 In recent decades, the vocabulary for analysing global systemic crises has considerably expanded, giving rise to a flourishing scientific lexicon. Concepts such as the Anthropocene/Capitalocene, planetary boundaries, and wicked problems have proliferated, transcending disciplinary boundaries.
 
 At the heart of these approaches, complexity sciences offer essential tools for identifying tipping points, analysing feedback loops, and studying interactions between social and ecological systems. A crucial aspect of recent research is the analysis of cascading or synchronous failures, which evaluates current and future impacts on supply chains, critical infrastructure, and ecosystems. The scenarios envisaged range from localised collapses to global disruptions, including existential threats to our species. These scenarios, even extreme ones, are essential for rigorous foresight and improved risk assessment.
 
-This understanding of the risks and dynamics of ecological and social breakdowns (collaps-*ology*) is crucial for designing appropriate, democratic, and solidary responses (collapso-*praxis*). Beyond the scientific aspect, this approach invites us to rethink our relationship with the more-than-human world and to explore the role of emotions and spirituality in facing these challenges (collapso-*sophy*).
+This understanding of the risks and dynamics of ecological and social collapses (collaps-*ology*) is crucial for designing appropriate, democratic, and solidary responses (collapso-*praxis*). Beyond the scientific aspect, this approach invites us to rethink our relationship with the more-than-human world and to explore the role of emotions and spirituality in facing these challenges (collapso-*sophy*).
 
 I share my bibliography on these topics via [collapsology.info](https://www.collapsology.info/en/science).
 
