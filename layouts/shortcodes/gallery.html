@@ -1,3 +1,10 @@
+{{ $imagesString := .Get "images" }}
+{{ $images := slice }}
+{{ range split $imagesString "|" }}
+    {{ $image := . | unmarshal }}
+    {{ $images = $images | append $image }}
+{{ end }}
+
 <div class="image-gallery-container">
   <!-- Language Selector -->
   <div class="language-selector">
@@ -15,39 +22,220 @@
       <button class="filter-btn" data-language="KOR">KOR</button>
       <button class="filter-btn" data-language="TUR">TUR</button>
   </div>
-
   <!-- Gallery Grid -->
   <div class="image-gallery-grid">
-    {{ $images := .Get "images" | transform.Unmarshal }}
-    {{ range $image := $images }}
-    <div class="image-item" data-language="{{ $image.language }}">
-        <img src="{{ $image.src }}" alt="{{ $image.alt }}">
+    {{ range $index, $image := $images }}
+    <div class="image-item" data-language="{{ .language }}" data-index="{{ $index }}">
+        <img src="{{ .src }}" alt="{{ .alt }}" class="gallery-image" data-high-res="{{ replace .src ".jpg" "-hd.jpg" }}">
     </div>
     {{ end }}
-</div>
+  </div>
 </div>
 
+<!-- Lightbox -->
+<div id="lightbox" class="lightbox">
+    <span class="close">&times;</span>
+    <button class="nav-btn prev">&lt;</button>
+    <img class="lightbox-content" id="lightbox-image">
+    <button class="nav-btn next">&gt;</button>
+</div>
 
+<style>
+    .lightbox {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-color: rgba(0,0,0,0.9);
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .lightbox-content {
+        max-width: 90%;
+        max-height: 90%;
+        object-fit: contain;
+    }
+    
+    .close {
+        position: absolute;
+        top: 15px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        transition: 0.3s;
+        cursor: pointer;
+        z-index: 1010;
+    }
+    
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+    }
+
+    .nav-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        border: none;
+        font-size: 24px;
+        padding: 10px;
+        cursor: pointer;
+        z-index: 1010;
+    }
+
+    .prev {
+        left: 20px;
+    }
+
+    .next {
+        right: 20px;
+    }
+
+    /* Styles pour les écrans normaux */
+    @media screen and (min-width: 768px) {
+        .lightbox-content {
+            max-height: 90vh;
+            width: auto;
+        }
+    }
+
+    /* Styles pour les smartphones */
+    @media screen and (max-width: 767px) {
+        .lightbox-content {
+            max-width: 90vw;
+            height: auto;
+        }
+        .nav-btn {
+            display: none;
+        }
+    }
+</style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  const filterButtons = document.querySelectorAll('.filter-btn');
-  const imageItems = document.querySelectorAll('.image-item');
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    const imageItems = document.querySelectorAll('.image-item');
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImage = document.getElementById('lightbox-image');
+    const close = document.getElementsByClassName('close')[0];
+    const prevBtn = document.querySelector('.nav-btn.prev');
+    const nextBtn = document.querySelector('.nav-btn.next');
+    let currentIndex = 0;
+    let touchStartX = 0;
+    let touchEndX = 0;
 
-  filterButtons.forEach(button => {
-      button.addEventListener('click', () => {
-          const language = button.getAttribute('data-language');
+    // Filtrage des images
+    filterButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const language = button.getAttribute('data-language');
+            imageItems.forEach(item => {
+                const itemLanguage = item.getAttribute('data-language');
+                if (language === 'all' || language === itemLanguage) {
+                    item.style.display = 'block';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+    });
 
-          imageItems.forEach(item => {
-              const itemLanguage = item.getAttribute('data-language');
+    // Ouverture du lightbox
+    imageItems.forEach(item => {
+        const img = item.querySelector('img');
+        img.addEventListener('click', () => {
+            lightbox.style.display = 'flex';
+            currentIndex = parseInt(item.getAttribute('data-index'));
+            updateLightboxImage();
+        });
+    });
 
-              if (language === 'all' || language === itemLanguage) {
-                  item.style.display = 'block';
-              } else {
-                  item.style.display = 'none';
-              }
-          });
-      });
-  });
+    // Navigation dans le lightbox
+    function showPrevious() {
+        currentIndex = (currentIndex - 1 + imageItems.length) % imageItems.length;
+        updateLightboxImage();
+    }
+
+    function showNext() {
+        currentIndex = (currentIndex + 1) % imageItems.length;
+        updateLightboxImage();
+    }
+
+    prevBtn.addEventListener('click', showPrevious);
+    nextBtn.addEventListener('click', showNext);
+
+    // Gestion du swipe sur mobile
+    lightbox.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+    }, false);
+
+    lightbox.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+    }, false);
+
+    function handleSwipe() {
+        if (touchEndX < touchStartX) {
+            showNext();
+        }
+        if (touchEndX > touchStartX) {
+            showPrevious();
+        }
+    }
+
+    // Mise à jour de l'image dans le lightbox
+    function updateLightboxImage() {
+        const currentItem = imageItems[currentIndex];
+        const img = currentItem.querySelector('img');
+        const highResSrc = img.getAttribute('data-high-res');
+        lightboxImage.src = highResSrc || img.src;
+        adjustLightboxImage();
+    }
+
+    // Fermeture du lightbox
+    close.addEventListener('click', () => {
+        lightbox.style.display = 'none';
+    });
+
+    lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) {
+            lightbox.style.display = 'none';
+        }
+    });
+
+    // Ajustement de l'image dans le lightbox
+    function adjustLightboxImage() {
+        if (window.innerWidth >= 768) {
+            lightboxImage.style.width = 'auto';
+            lightboxImage.style.height = '90vh';
+        } else {
+            lightboxImage.style.width = '90vw';
+            lightboxImage.style.height = 'auto';
+        }
+    }
+
+    // Ajuster l'image lors du redimensionnement de la fenêtre
+    window.addEventListener('resize', adjustLightboxImage);
+
+    // Navigation avec les flèches du clavier
+    document.addEventListener('keydown', (e) => {
+        if (lightbox.style.display === 'flex') {
+            if (e.key === 'ArrowLeft') {
+                showPrevious();
+            } else if (e.key === 'ArrowRight') {
+                showNext();
+            } else if (e.key === 'Escape') {
+                lightbox.style.display = 'none';
+            }
+        }
+    });
 });
 </script>
