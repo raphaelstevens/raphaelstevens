@@ -2,11 +2,11 @@
 {{ $menu := resources.Get "js/menu.js" }}
 {{ $prism := resources.Get "js/prism.js" }}
 {{ $secureJS := slice $main $menu $prism | resources.Concat "bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
-<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+<script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}" defer></script>
 
 {{ range $val := $.Site.Params.customJS }}
     {{ if gt (len $val) 0 }}
-        <script src="{{ $val }}"></script>
+        <script src="{{ $val }}" defer></script>
     {{ end }}
 {{ end }}
 
@@ -61,8 +61,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 </script>
-
-
 
 {{ if .Page.Store.Get "hasMermaid" }}
 <script type="module">
