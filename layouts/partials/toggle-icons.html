@@ -1,16 +1,23 @@
-<!-- Language Toggle SVG -->
-<span class="language-toggle not-selectable" title="{{ if eq .Lang "fr" }}Switch to English{{ else }}Passer en Français{{ end }}">
-    <svg class="language-toggler" width="40" height="20" viewBox="0 0 40 20" xmlns="http://www.w3.org/2000/svg">
-        <rect x="1" y="1" width="38" height="18" rx="9" ry="9" fill="currentColor"/>
-        <text x="{{ if eq .Lang "fr" }}13{{ else }}27{{ end }}" y="50%" font-family="Helvetica, sans-serif" 
-              font-size="8" font-weight="bold" fill="var(--text-fill)" text-anchor="middle" dominant-baseline="central">
-            {{ if eq .Lang "fr" }}EN{{ else }}FR{{ end }}
-        </text>
-        <circle cx="{{ if eq .Lang "fr" }}30{{ else }}10{{ end }}" cy="10" r="7" fill="var(--circle-fill)" />
-    </svg>
-</span>
+<!-- Language Toggle SVG - Hugo Native -->
+{{ range .AllTranslations }}
+  {{ if ne .Language.Lang $.Language.Lang }}
+    <a href="{{ .RelPermalink }}" class="language-toggle not-selectable" 
+       title="{{ if eq $.Language.Lang "fr" }}Switch to English{{ else }}Passer en Français{{ end }}">
+        <svg class="language-toggler" width="40" height="20" viewBox="0 0 40 20" xmlns="http://www.w3.org/2000/svg">
+            <rect x="1" y="1" width="38" height="18" rx="9" ry="9" fill="currentColor"/>
+            <!-- Texte positionné à l'opposé du cercle, affiche la langue cible -->
+            <text x="{{ if eq $.Language.Lang "fr" }}13{{ else }}27{{ end }}" y="50%" font-family="Helvetica, sans-serif" 
+                  font-size="8" font-weight="bold" fill="var(--text-fill)" text-anchor="middle" dominant-baseline="central">
+                {{ upper .Language.Lang }}
+            </text>
+            <!-- Cercle mobile selon la langue actuelle -->
+            <circle cx="{{ if eq $.Language.Lang "fr" }}30{{ else }}10{{ end }}" cy="10" r="7" fill="var(--circle-fill)" />
+        </svg>
+    </a>
+  {{ end }}
+{{ end }}
 
-<!-- Theme Toggle SVG (Dark/Light Mode) -->
+<!-- Theme Toggle SVG (Dark/Light Mode - unchanged) -->
 <span class="theme-toggle not-selectable" title="Toggle Theme">
     <svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
         <circle cx="22" cy="22" r="16" fill="none" stroke="currentColor" stroke-width="4"/>
