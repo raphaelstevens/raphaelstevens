@@ -45,7 +45,9 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
     {"src": "/img/portfolio-17.jpg", "alt": "How everything can collapse", "language": "GRE"},
     {"src": "/img/portfolio-21.jpg", "alt": "How everything can collapse", "language": "KOR"},
     {"src": "/img/portfolio-18.jpg", "alt": "Comment tout peut s'effondrer", "language": "FRA"},
-    {"src": "/img/portfolio-19.jpg", "alt": "Une autre fin du monde est possible", "language": "FRA"}
+    {"src": "/img/portfolio-19.jpg", "alt": "Une autre fin du monde est possible", "language": "FRA"},
+    {"src": "/img/portfolio-20.jpg", "alt": "Her Şey Nasıl Çökebilir", "language": "TUR"},
+    {"src": "/img/portfolio-22.jpg", "alt": "Úton az összeomlás felé", "language": "HON"}
 ]` >}}
 
 ## Presse
@@ -82,9 +84,11 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
 
 ## Chroniques 
 
-### Magazine Imagine Demain le Monde (2018-...)
+### Magazine Imagine Demain le Monde (2018-2025)
 
-- Nouvelle série de chroniques à venir en 2024  
+- «&nbsp;Entre anthropocentrisme et biocentrisme&nbsp;», n°163, Printemps 2025.
+- «&nbsp;Entre prudence et urgence&nbsp;», n°162, Automne 2024.
+- «&nbsp;Entre décroissance et écomodernisme&nbsp;», n°161, Eté 2024.  
 - «&nbsp;Quand les sciences s'intéressent au futur&nbsp;», n°146, sept - oct 2021.
 - «&nbsp;[Déclencher des emballements... positifs](https://www.imagine-magazine.com/libre-acces/chronique/declencher-des-emballements-positifs/)&nbsp;», n°145 juillet-août 2021.
 - «&nbsp;[Tous les ingrédients d'une disette alimentaire](https://rhizome.etopia.be/Default/doc/SYRACUSE/3745/tous-les-ingredients-d-une-disette-alimentaire)&nbsp;», n°144, mai-juin 2021.
@@ -119,6 +123,8 @@ Edition [brochée](https://www.lalibrairie.com/livres/aux-origines-de-la-catastr
 
 ### Articles
 
+- «&nbsp;[Understanding energy system dynamics in a changing climate: Insights for first responders and risk managers](https://www.cell.com/iscience/fulltext/S2589-0042(25)01581-0)&nbsp;», *iScience*, vol. 28, n°9, 2025, pp. 113320.
+- «&nbsp;[Dernières nouvelles du collapse : revue d'actualité scientifique](https://institutmomentum.org/dernieres-nouvelles-du-collapse)&nbsp;», Institut Momentum, 2024.
 - «&nbsp;[Warum man sich mit dem Zusammenbruch auseinandersetzen muss](https://agora42.de/shop/1-2023-zusammenbruch/)&nbsp;», agora 42, janv 2023.
 - «&nbsp;[Reasons for anticipating societal collapse](https://www.researchgate.net/profile/Rupert-Read/publication/360947368_Deep_Adaptation_Navigating_the_Realities_of_Climate_Chaos/links/6294eb31c660ab61f852a2f8/Deep-Adaptation-Navigating-the-Realities-of-Climate-Chaos.pdf#page=101)&nbsp;», in *Deep Adaptation: Navigating the Realities of Climate Chaos*, Eds. Rupert Read & Jem Bendell, Polity Press, 2021, pp. 87‑101. 
 - [Préface et postface](https://ref.lamartinieregroupe.com/media/9782021223316/122331_extrait_Extrait_0.pdf) inédites pour l'édition poche de *Comment tout peut s'effondrer*, Seuil, 2021. 

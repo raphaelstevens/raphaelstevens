@@ -8,7 +8,10 @@ defaultContentLanguageInSubdir = false
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+# CHANGEMENT: paginate remplacé par pagination.pagerSize
+[pagination]
+  pagerSize = 10
+
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -59,7 +62,7 @@ path = ""
   counterdev = "da44b53c-3920-4a97-bf68-2c45cfa2defb"
   ogimage = "/img/background-rs.jpg"
   sitename = "Raphaël Stevens"
-  twitter = "@collapsology"
+  bluesky = "@raphaelstevens.bsky.social"
   description = "Essayiste // Prospectiviste. Bio | Recherche | Artivisme | Publications | Contact"
   images = [""]
 
@@ -116,7 +119,7 @@ path = ""
 
   #[params.portrait]
   #  path     = "img/raphael-stevens.jpg"
-  #  alt      = "© Jérôme Panconi"
+  #  alt      = "Â© JÃ©rÃ´me Panconi"
   #  maxWidth = "130px"
 
 
@@ -157,8 +160,8 @@ path = ""
 	weight    = 5
 
 [[languages.fr.params.social]]
-  name = "twitter"
-  url = "https://twitter.com/collapsology"  
+  name = "bluesky"
+  url = "https://bsky.app/profile/raphaelstevens.bsky.social"  
 
 [[languages.fr.params.social]]
       name = "email"
@@ -200,11 +203,9 @@ path = ""
 	 weight    = 5
 
 [[languages.en.params.social]]
-  name = "twitter"
-  url = "https://twitter.com/collapsology"  
+  name = "bluesky"
+  url = "https://bsky.app/profile/raphaelstevens.bsky.social"  
 
 [[languages.en.params.social]]
       name = "email"
-      url = "contact"  
-
-
+      url = "contact"
