@@ -26,8 +26,15 @@
   <!-- Gallery Grid -->
   <div class="image-gallery-grid">
     {{ range $index, $image := $images }}
+    {{ $hdPath := replace .src "/img/" "/img/" | replace ".jpg" "-hd.jpg" }}
+    {{ $hdStaticPath := replace $hdPath "/img/" "img/" }}
+    {{ $hdExists := false }}
+    {{ if fileExists (printf "static/%s" $hdStaticPath) }}
+        {{ $hdExists = true }}
+    {{ end }}
     <div class="image-item" data-language="{{ .language }}" data-index="{{ $index }}">
-        <img src="{{ .src }}" alt="{{ .alt }}" class="gallery-image" data-high-res="{{ replace .src ".jpg" "-hd.jpg" }}">
+        <img src="{{ .src }}" alt="{{ .alt }}" class="gallery-image" 
+             data-high-res="{{ if $hdExists }}{{ $hdPath }}{{ else }}{{ .src }}{{ end }}">
     </div>
     {{ end }}
   </div>
@@ -197,8 +204,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const currentItem = imageItems[currentIndex];
         const img = currentItem.querySelector('img');
         const highResSrc = img.getAttribute('data-high-res');
-        lightboxImage.src = highResSrc || img.src;
-        adjustLightboxImage();
+        lightboxImage.src = highResSrc;
     }
 
     // Fermeture du lightbox
