@@ -4,7 +4,7 @@ description: "Me contacter"
 weight: "4"
 robots: "noindex, nofollow, noarchive"
 ---
-Bonjour :wave: 
+Bonjour 👋 
 
 Contactez-moi via&nbsp; {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}. 
 

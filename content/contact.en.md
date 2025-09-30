@@ -5,7 +5,7 @@ weight: "4"
 robots: "noindex, nofollow, noarchive"
 ---
 
-Hi :wave:
+Hi 👋
 
 Reach me via&nbsp; {{< mail-address-obfuscate mailto="raphael.stevens.public@gmail.com" >}}.
 
