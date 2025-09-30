@@ -1,5 +1,5 @@
-baseURL = "/"
-title   = "Raphaël Stevens"
+baseURL = "https://raphaelstevens.com"
+title   = "Raphael Stevens"
 languageCode = "fr-fr"
 theme = "hello-friend-ng"
 defaultContentLanguage = "fr"
@@ -61,7 +61,7 @@ path = ""
   EnableLanguageToggle = true
   counterdev = "da44b53c-3920-4a97-bf68-2c45cfa2defb"
   ogimage = "/img/background-rs.jpg"
-  sitename = "Raphaël Stevens"
+  sitename = "Raphael Stevens"
   bluesky = "@raphaelstevens.bsky.social"
   description = "Essayiste // Prospectiviste. Bio | Recherche | Artivisme | Publications | Contact"
   images = [""]
@@ -119,7 +119,7 @@ path = ""
 
   #[params.portrait]
   #  path     = "img/raphael-stevens.jpg"
-  #  alt      = "Â© JÃ©rÃ´me Panconi"
+  #  alt      = "© Jerome Panconi"
   #  maxWidth = "130px"
 
 
@@ -172,7 +172,7 @@ path = ""
     languageCode = "en-us"
     languageDirection = "ltr"
     languageName = "en"
-    title = "Raphaël Stevens"
+    title = "Raphael Stevens"
     weight = 2
   [languages.en.params]
     homeSubtitle  = "Essayist // Prospectivist"

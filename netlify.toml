@@ -4,3 +4,15 @@
 
 [build.environment]
   HUGO_VERSION = "0.147.3"
+
+[[redirects]]
+  from = "https://raphaelstevens.xyz/*"
+  to = "https://raphaelstevens.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://raphaelstevens.xyz/*"
+  to = "https://raphaelstevens.com/:splat"
+  status = 301
+  force = true
