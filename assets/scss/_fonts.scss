@@ -49,4 +49,104 @@
        url("fonts/Inter-BoldItalic.woff") format("woff");
 }
 
+/* Open Sans */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/OpenSans-Regular.woff2") format("woff2"),
+       url("fonts/OpenSans-Regular.woff") format("woff");
+}
 
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/OpenSans-Italic.woff2") format("woff2"),
+       url("fonts/OpenSans-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("fonts/OpenSans-Bold.woff2") format("woff2"),
+       url("fonts/OpenSans-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url("fonts/OpenSans-BoldItalic.woff2") format("woff2"),
+       url("fonts/OpenSans-BoldItalic.woff") format("woff");
+}
+
+/* Libre Baskerville */
+@font-face {
+  font-family: "Libre Baskerville";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/LibreBaskerville-Regular.woff2") format("woff2"),
+       url("fonts/LibreBaskerville-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Libre Baskerville";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/LibreBaskerville-Italic.woff2") format("woff2"),
+       url("fonts/LibreBaskerville-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Libre Baskerville";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("fonts/LibreBaskerville-Bold.woff2") format("woff2"),
+       url("fonts/LibreBaskerville-Bold.woff") format("woff");
+}
+
+/* Lora */
+@font-face {
+  font-family: "Lora";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/Lora-Regular.woff2") format("woff2"),
+       url("fonts/Lora-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/Lora-Italic.woff2") format("woff2"),
+       url("fonts/Lora-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("fonts/Lora-Bold.woff2") format("woff2"),
+       url("fonts/Lora-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lora";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url("fonts/Lora-BoldItalic.woff2") format("woff2"),
+       url("fonts/Lora-BoldItalic.woff") format("woff");
+}
