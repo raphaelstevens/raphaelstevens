@@ -18,16 +18,16 @@
 
 <!-- Link Tags -->
 <base href="{{ .Permalink }}">
-<link rel="canonical" href="{{ .Permalink | absURL }}" itemprop="url">
-<meta name="url" content="{{ .Permalink | absURL }}">
-<meta name="twitter:url" content="{{ .Permalink | absURL }}">
-<meta property="og:url" content="{{ .Permalink | absURL }}">
+<link rel="canonical" href="{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .RelPermalink }}" itemprop="url">
+<meta name="url" content="{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .RelPermalink }}">
+<meta name="twitter:url" content="{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .RelPermalink }}">
+<meta property="og:url" content="{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .RelPermalink }}">
 
 <!-- Language Tags -->
 <meta property="og:locale" content="{{ .Language.Lang }}">
 <meta name="language" content="{{ .Language.LanguageName }}">
 {{ range .AllTranslations }}
-  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink | absURL }}" title="{{ .Language.LanguageName }}">
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">
 {{ end }}
 
 <!-- Image Tags -->
