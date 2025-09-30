@@ -1,0 +1,123 @@
+.footer {
+  padding: 40px 20px;
+  flex-grow: 0;
+  // Default
+  color: $light-color-secondary;
+
+  // Gestion des modes sombre/clair
+  @media (prefers-color-scheme: dark) {
+    color: $dark-color-secondary;
+  }
+
+  @media (prefers-color-scheme: light) {
+    color: $light-color-secondary;
+  }
+
+  [data-theme=dark] & {
+    color: $dark-color-secondary;
+  }
+
+  [data-theme=light] & {
+    color: $light-color-secondary;
+  }
+
+  // Mode body class
+  body.light-mode & {
+    color: $light-color-secondary;
+  }
+
+  body.dark-mode & {
+    color: $dark-color-secondary;
+  }
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 760px;
+    max-width: 100%;
+
+    @media #{$media-size-tablet} {
+      flex-direction: column;
+    }
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 1rem;
+    // Default
+    color: $light-color-secondary;
+
+    // Gestion des modes pour le contenu aussi
+    @media (prefers-color-scheme: dark) {
+      color: $dark-color-secondary;
+    }
+
+    @media (prefers-color-scheme: light) {
+      color: $light-color-secondary;
+    }
+
+    [data-theme=dark] & {
+      color: $dark-color-secondary;
+    }
+
+    [data-theme=light] & {
+      color: $light-color-secondary;
+    }
+
+    body.light-mode & {
+      color: $light-color-secondary;
+    }
+
+    body.dark-mode & {
+      color: $dark-color-secondary;
+    }
+
+    // Gestion des liens dans le footer
+    a {
+      color: inherit;
+      
+      body.light-mode & {
+        color: $light-color-secondary;
+        
+        &:hover {
+          color: $light-color;
+        }
+      }
+      
+      body.dark-mode & {
+        color: $dark-color-secondary;
+        
+        &:hover {
+          color: $dark-color;
+        }
+      }
+    }
+
+    @media #{$media-size-tablet} {
+      flex-direction: column;
+      margin-top: 10px;
+    }
+
+    & > *:not(:last-child)::after {
+      content: "•";
+      padding: 0 5px;
+
+      @media #{$media-size-tablet} {
+          content: "";
+          padding: 0;
+      }
+    }
+
+    & > *:last-child {
+      padding: 0 0px;
+
+      @media #{$media-size-tablet} {
+          padding: 0;
+      }
+    }
+  }
+}
